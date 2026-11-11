@@ -1,0 +1,243 @@
+{
+  "id": "XDPZ2RAAACAASsCH",
+  "uid": "home",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Home",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Cleveland, Ohio Law Firm Specializing in Civil Litigation, Contracts, Torts, Appeals, Regulatory Compliance, Wrongful Death, Medical Malpractice, Personal Injury, Estate Planning, Wills, Trusts, Real Estate, Employment Discrimination, Business Disputes, and Commercial Transactions",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "ACHIEVING RESULTS",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/columns.png",
+            "id": "XDUmxRAAACIAUF8h",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$ad9d1d2d-2060-4c2a-b194-b6eace574161",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "paragraph",
+              "text": "The Albert Law Firm provides the highest standards of legal services with the most modern technology to achieve outstanding results for our clients. We solve legal problems with our expertise in negotiation, trial and appellate practice, mediation, and arbitration.",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "We invite you to learn more about our areas of expertise at the links below,\nview  MR. ALBERT'S PROFESSIONAL BIOGRAPHY, or CONTACT US today.",
+              "spans": [
+                {
+                  "start": 82,
+                  "end": 83,
+                  "type": "strong"
+                },
+                {
+                  "start": 83,
+                  "end": 118,
+                  "type": "hyperlink",
+                  "data": {
+                    "id": "XDUvwxAAACIAUIcc",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "-",
+                    "first_publication_date": "2019-01-08T23:20:40+0000",
+                    "last_publication_date": "2024-04-17T21:10:30+0000",
+                    "uid": "steven-w-albert",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
+                },
+                {
+                  "start": 123,
+                  "end": 133,
+                  "type": "hyperlink",
+                  "data": {
+                    "id": "XDUzMxAAACAAUJZS",
+                    "type": "page",
+                    "tags": [],
+                    "lang": "en-us",
+                    "slug": "-",
+                    "first_publication_date": "2019-01-08T23:33:12+0000",
+                    "last_publication_date": "2024-04-17T20:25:30+0000",
+                    "uid": "contact-us",
+                    "link_type": "Document",
+                    "isBroken": false
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$6c08e7c4-74d1-41b2-a1be-24beb4573224",
+        "slice_type": "left_content",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "map_title": [
+            {
+              "type": "heading1",
+              "text": "National Experience",
+              "spans": []
+            }
+          ],
+          "map_image": {
+            "dimensions": {
+              "width": 420,
+              "height": 259
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/home-map.png",
+            "id": "XDUmuBAAACEAUF7m",
+            "edit": {
+              "x": 0,
+              "y": 0,
+              "zoom": 1,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {
+            "map_icon": {
+              "dimensions": {
+                "width": 15,
+                "height": 22
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "/content/images/redmarker.gif",
+              "id": "XGs28BAAACEAttv4",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "#fff"
+              }
+            },
+            "icon_title": [
+              {
+                "type": "heading1",
+                "text": "MORE THAN 140 JURY TRIALS",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "icon_description1": [
+              {
+                "type": "paragraph",
+                "text": "» 125 trials in Ohio",
+                "spans": [],
+                "direction": "ltr"
+              },
+              {
+                "type": "paragraph",
+                "text": "» 15 others across the U.S.",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          },
+          {
+            "map_icon": {
+              "dimensions": {
+                "width": 19,
+                "height": 24
+              },
+              "alt": null,
+              "copyright": null,
+              "url": "/content/images/yellowmarker.gif",
+              "id": "XGs27hAAACAAttvv",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "#fff"
+              }
+            },
+            "icon_title": [
+              {
+                "type": "heading1",
+                "text": "22 APPELLATE COURT APPEARANCES",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ],
+            "icon_description1": [
+              {
+                "type": "paragraph",
+                "text": "» 20 appearances in Ohio",
+                "spans": [],
+                "direction": "ltr"
+              },
+              {
+                "type": "paragraph",
+                "text": "» 1 in Texas",
+                "spans": [],
+                "direction": "ltr"
+              },
+              {
+                "type": "paragraph",
+                "text": "» 1 in Georgia",
+                "spans": [],
+                "direction": "ltr"
+              }
+            ]
+          }
+        ],
+        "id": "map_content$d75a84ce-4025-40fb-b6a3-c5f583f34acf",
+        "slice_type": "map_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

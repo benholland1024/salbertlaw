@@ -5,8 +5,6 @@
 </template>
 
 <script>
-var Prismic = require('prismic-javascript');
-
 export default {
 
 }

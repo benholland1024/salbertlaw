@@ -7,10 +7,10 @@ import PrismicVue from 'prismic-vue';
 import linkResolver from './link-resolver';
 
 Vue.config.productionTip = false
- 
-// Add this before the new Vue instance
+
+// prismic-vue is only used to render the rich-text fields in src/content
+// (<prismic-rich-text>). It is not given an API endpoint and never contacts Prismic.
 Vue.use(PrismicVue, {
-  endpoint: window.prismic.endpoint,
   linkResolver
 });
 

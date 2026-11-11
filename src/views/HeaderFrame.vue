@@ -187,9 +187,8 @@
 </template>
 
 <script>
-var Prismic = require('prismic-javascript');
-
 import ContentTemplate from '@/views/ContentTemplate.vue';
+import * as content from '@/content';
 
 export default {
   name: 'home',
@@ -221,29 +220,24 @@ export default {
   },
   methods: {
     getContactInfo() {
-      this.$prismic.client.getSingle('contact_info').then((document) => {
-        let doc_data = document.data;
-        this.contact_info = doc_data;
-      })
+      this.contact_info = content.getContactInfo().data;
     },
     refreshPageData(pageID) {
       this.left_content = {}
       this.header = {}
       this.map_content = {}
 
-      this.$prismic.client.getByUID('page', pageID)
-        .then((document) => {
-          if (!document) {
-            console.log("Page not found.");
-            this.$router.push('/')
-          }
-          let doc_data = document.data.body;
-          console.log("Loading page data: ", doc_data)
-          this.left_content = doc_data.find(o => o.slice_type === 'left_content');
-          this.right_content = doc_data.find(o => o.slice_type === 'right_content');
-          this.header = doc_data.find(o => o.slice_type === 'header');
-          this.map_content = doc_data.find(o => o.slice_type === 'map_content');
-        })
+      const document = content.getPage(pageID);
+      if (!document) {
+        console.log("Page not found.");
+        this.$router.push('/')
+        return;
+      }
+      let doc_data = document.data.body;
+      this.left_content = doc_data.find(o => o.slice_type === 'left_content');
+      this.right_content = doc_data.find(o => o.slice_type === 'right_content');
+      this.header = doc_data.find(o => o.slice_type === 'header');
+      this.map_content = doc_data.find(o => o.slice_type === 'map_content');
     },
   },
   components: {

@@ -1,0 +1,123 @@
+{
+  "id": "XFNXiBMAACIAOeVF",
+  "uid": "rebecca-cimino",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Rebecca Cimino",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Paralegal Rebecca Cimino",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "PARALEGAL",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/coffee.png",
+            "id": "XDfF7RAAACEA4qOJ",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$c8dda4e9-c7d6-4065-80c9-041850bed0b3",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "paragraph",
+              "text": "Rebecca Cimino",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 14,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "main_text": [
+            {
+              "type": "image",
+              "url": "/content/images/rebecca.jpg",
+              "alt": null,
+              "copyright": null,
+              "dimensions": {
+                "width": 2379,
+                "height": 1588
+              },
+              "id": "XFhuchMAACQAUET3",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "#fff"
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "After receiving her Bachelor of Arts degree from Ohio University, Rebecca obtained her Certificate in Paralegal Studies from Lakeland Community College.  Rebecca has 11 years of experience as a paralegal focusing primarily on complex personal injury, products liability, employment law, and insurance defense litigation.  ",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "She began her career as a paralegal working for a large, long-established law firm with attorney Steve Albert in Cleveland, Ohio. She then joined The Albert Law Firm upon its opening in 2012.  Rebecca supports and assists the Firm's attorneys in all phases of lawsuits, from filing new cases to attending jury trials, as well as in mediation and arbitration. ",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "When not dedicating her professional time to client needs, Rebecca enjoys spending time with her family and engaging in activities in her community.",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$1ce3380d-f7cc-43a4-91d6-c40ed0533b8a",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

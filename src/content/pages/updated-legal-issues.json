@@ -1,0 +1,543 @@
+{
+  "id": "XDUyfxAAACAAUJMw",
+  "uid": "updated-legal-issues",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Updated Legal Issues",
+        "spans": []
+      }
+    ],
+    "icon_description": [],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "LEGAL ISSUES",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/book.png",
+            "id": "XDU_RBAAACAAUMtl",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$67627e98-7e50-40ac-aeaa-00fe15c578bd",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "This page is dedicated to communicating the most up-to-date legal information. Check back regularly for updated content. ",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [
+              {
+                "type": "heading1",
+                "text": "Investment News: Qualified Opportunity Zones",
+                "spans": []
+              }
+            ],
+            "blog_date": "2019-02-28",
+            "blog_content": [
+              {
+                "type": "paragraph",
+                "text": "This post addresses the following three questions:",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "1)      What are qualified opportunity zones?",
+                "spans": [
+                  {
+                    "start": 17,
+                    "end": 44,
+                    "type": "em"
+                  },
+                  {
+                    "start": 17,
+                    "end": 44,
+                    "type": "strong"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "2)     How does one invest in a qualified opportunity zone property?",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "3)     What are the benefits of investing in a qualified opportunity zone property?",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "This post does not address whether opportunity zones represent a worthwhile investment compared to available alternatives. Nor does it address whether any particular investment opportunity satisfies the law’s requirements. Over the next few months, the IRS “will be providing further details, including additional legal guidance, on this new tax benefit,” which may answer other miscellaneous questions. See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019). The Albert Law Firm is always available for consultation, although some questions may be best answered by a tax lawyer or accountant. ",
+                "spans": [
+                  {
+                    "start": 15,
+                    "end": 18,
+                    "type": "em"
+                  },
+                  {
+                    "start": 404,
+                    "end": 407,
+                    "type": "em"
+                  },
+                  {
+                    "start": 408,
+                    "end": 481,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "heading1",
+                "text": "I. Summary",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "An investor takes advantage of qualified opportunity zones by reinvesting a capital gain into a qualified opportunity fund within 180 days or receiving the gain. A qualified opportunity fund is a partnership or corporation whose primary purpose is to invest in a qualified opportunity zone property. A qualified opportunity zone property is a stock, partnership interest, or business property located within a qualified opportunity zone. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "By reinvesting a capital gain into a qualified opportunity zone property through a qualified opportunity fund, the investor may defer paying capital gains tax on the gain. (The investor must still list the initial gain on IRS Form 8949 in the tax year the investor obtains it.) The investor pays capital gains tax in the tax year associated with the earlier of: (1) the date the investor sells or exchanges the qualified opportunity zone property, or (2) December 31, 2026. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "If the investor maintains the investment for at least five but fewer than seven years before selling or exchanging it, the amount of taxable gain is reduced by 10%. If the investor maintains the investment for seven years or longer, then the amount of taxable gain is reduced by an additional 5%. If the investor holds the qualified opportunity zone property for ten years or more, then the investor likely does not have to pay capital gain tax on any gain associated with its sale. ",
+                "spans": []
+              },
+              {
+                "type": "heading1",
+                "text": "II. What are qualified opportunity zones?",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "Qualified opportunity zones were added to the tax code on December 22, 2017, when the Tax Cuts and Jobs Act (the “TCJA”) was signed into law. See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019). A qualified opportunity zone is a census tract which underwent a process of nomination and designation following the TCJA’s passage. See generally 26 U.S.C. 1400Z–1. All qualified opportunity zones are either low-income communities (as defined by the Internal Revenue Code) or areas adjacent to low-income communities. 26 U.S.C. 45D(e).",
+                "spans": [
+                  {
+                    "start": 142,
+                    "end": 145,
+                    "type": "em"
+                  },
+                  {
+                    "start": 146,
+                    "end": 219,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                    }
+                  },
+                  {
+                    "start": 383,
+                    "end": 397,
+                    "type": "em"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "A “qualified opportunity zone property” is property within a qualified opportunity zone that an investor can invest in to reap tax benefits. An investor who reinvests a capital gain in a qualified opportunity zone property can defer paying capital gains tax on that gain. If the investor holds the investment for at least five years, then the investor does not need to pay capital gains tax on the full amount of the gain. Other benefits trigger at seven and ten years. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "As of today, more than 8,700 communities containing approximately 35 million Americans have been designated as qualified opportunity zones. See https://www.housingwire.com/articles/47185-trump-administration-unveils-new-rules-for-opportunity-zones (last visited Feb. 27, 2019). A list of these zones can be found at Opportunity Zone Resources and in the Federal Register at IRB Notice 2018-48. Because each U.S. state (and each U.S. possession) has nominated the maximum number of qualified opportunity zones, the list of designations as of December 14, 2018 is final; there will be no “additional or revised designations.” See https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx (last visited Feb. 27, 2019).",
+                "spans": [
+                  {
+                    "start": 140,
+                    "end": 143,
+                    "type": "em"
+                  },
+                  {
+                    "start": 144,
+                    "end": 247,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.housingwire.com/articles/47185-trump-administration-unveils-new-rules-for-opportunity-zones"
+                    }
+                  },
+                  {
+                    "start": 316,
+                    "end": 342,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx"
+                    }
+                  },
+                  {
+                    "start": 354,
+                    "end": 392,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/pub/irs-drop/n-18-48.pdf"
+                    }
+                  },
+                  {
+                    "start": 624,
+                    "end": 627,
+                    "type": "em"
+                  },
+                  {
+                    "start": 628,
+                    "end": 681,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "heading1",
+                "text": "III. How does one invest in a qualified opportunity zone property? ",
+                "spans": []
+              },
+              {
+                "type": "heading2",
+                "text": "  A.  The investor creates a qualified opportunity fund.",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "The process of investing in a qualified opportunity zone property begins when an investor reinvests a capital gain into a “qualified opportunity fund” within 180 days of acquiring that gain. 26 U.S.C. 1400Z–2(a)(1)(A). A qualified opportunity fund is an “investment vehicle which is organized as a corporation or a partnership for the purpose of investing in a qualified opportunity zone property.” 26 U.S.C. 1400Z–2(d)(1). The investor must fill out IRS Form 8996 each year in connection with establishing and maintaining a qualified opportunity fund. The investor must also list the sale resulting in the initial capital gain on IRS Form 8949, although “instructions on how to use that form to elect deferral of the gain will be forthcoming.” See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019).",
+                "spans": [
+                  {
+                    "start": 451,
+                    "end": 464,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf"
+                    }
+                  },
+                  {
+                    "start": 631,
+                    "end": 644,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/pub/irs-pdf/f8949.pdf"
+                    }
+                  },
+                  {
+                    "start": 745,
+                    "end": 748,
+                    "type": "em"
+                  },
+                  {
+                    "start": 749,
+                    "end": 822,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "A qualified opportunity fund’s founding documents must “include a statement of the entity’s purpose of investing in qualified opportunity zone property and the description of the qualified opportunity zone business.” See https://www.irs.gov/pub/irs-pdf/f8996.pdf (last visited Feb. 27, 2019). The entity must continuously hold at least 90% of its assets in a qualified opportunity zone property and its interest must be in equity, not in debt. See https://www.irs.gov/newsroom/tax-law-creates-new-opportunity-zone-program (last visited Feb. 27, 2019). If a qualified opportunity fund fails to maintain at least 90% of its assets in qualified opportunity zone property, then it is subject to a tax penalty. See https://www.irs.gov/pub/irs-pdf/f8996.pdf (last visited Feb. 27, 2019).",
+                "spans": [
+                  {
+                    "start": 217,
+                    "end": 221,
+                    "type": "em"
+                  },
+                  {
+                    "start": 221,
+                    "end": 262,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf"
+                    }
+                  },
+                  {
+                    "start": 444,
+                    "end": 448,
+                    "type": "em"
+                  },
+                  {
+                    "start": 448,
+                    "end": 521,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/newsroom/tax-law-creates-new-opportunity-zone-program"
+                    }
+                  },
+                  {
+                    "start": 706,
+                    "end": 710,
+                    "type": "em"
+                  },
+                  {
+                    "start": 710,
+                    "end": 751,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "The IRS has noted that an investor may defer taxes on a capital gain—even if the gain preceded the TCJA—as long as the investor invested the amount of the gain within 180 days into a qualified opportunity fund.  See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019). The investor can defer taxes on that gain by filing an amended return if the tax return for that year has already been filed. Id. It is currently unclear how this policy works in light of the requirement that a qualified opportunity fund’s founding documents must designate the entity’s purpose as a qualified opportunity fund. In other words, it is not certain whether an entity that meets the purpose but not the formal requirements of a qualified opportunity fund can benefit from this retroactivity. ",
+                "spans": [
+                  {
+                    "start": 212,
+                    "end": 216,
+                    "type": "em"
+                  },
+                  {
+                    "start": 216,
+                    "end": 289,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                    }
+                  },
+                  {
+                    "start": 446,
+                    "end": 448,
+                    "type": "em"
+                  },
+                  {
+                    "start": 446,
+                    "end": 448,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                    }
+                  },
+                  {
+                    "start": 715,
+                    "end": 723,
+                    "type": "em"
+                  }
+                ]
+              },
+              {
+                "type": "heading2",
+                "text": "  B.  The investor uses the qualified opportunity fund to invest in a qualified opportunity zone property. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "Once a qualified opportunity fund is established, its purpose is to invest in a qualified opportunity zone property. “Qualified opportunity zone property” is defined broadly: it includes “qualified opportunity zone stock,” “qualified opportunity zone partnership interest,” and “qualified opportunity zone business property.” 26 U.S.C. 1400Z–2(d)(2)(B)–(D). In other words, an interest in stock, a partnership, or business property may qualify as a qualified opportunity zone property under the Internal Revenue Code.",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "The Code imposes many specific requirements with respect to each kind of property. Therefore, we recommend consulting with a tax lawyer or accountant to determine whether a particular stock, partnership interest, or business property is a qualified opportunity zone property.",
+                "spans": []
+              },
+              {
+                "type": "heading1",
+                "text": "IV. What are the benefits of investing in a qualified opportunity zone property?",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "Reinvesting a capital gain into a qualified opportunity zone property provides tax benefits for the investor. By reinvesting all or some of a capital gain into a qualified opportunity fund within 180 days of receiving the gain, an investor may defer paying capital gains tax on the amount of the gain reinvested. 26 U.S.C. 1400Z–2(a)(1)(A). If the investor chooses to defer, then the investor pays capital gains tax on the initial gain in the tax year associated with the earlier of either “the date on which such investment is sold or exchanged,” or December 31, 2026. See 26 U.S.C. 1400Z–2(b).",
+                "spans": [
+                  {
+                    "start": 483,
+                    "end": 489,
+                    "type": "em"
+                  },
+                  {
+                    "start": 548,
+                    "end": 550,
+                    "type": "em"
+                  },
+                  {
+                    "start": 570,
+                    "end": 573,
+                    "type": "em"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "By retaining the investment in a qualified opportunity zone property for five years or longer, the investor does not need to pay capital gains tax on the full amount of the original gain. See generally 26 U.S.C. 1400Z–2(b)(2)(B). After five years, the amount taxable is decreased by 10% of the original gain amount. 26 U.S.C. 1400Z–2(b)(2)(B)(iii). After seven years, the amount taxable is decreased by an additional 5% of the original gain amount. 26 U.S.C. 1400Z–2(b)(2)(B)(iv). In order to take advantage of the full 15% decrease, the investor must invest by December 31, 2019 because the gain must be recognized no later than December 31, 2026 (tax year 2027). 26 U.S.C. 1400Z–2(b).",
+                "spans": [
+                  {
+                    "start": 188,
+                    "end": 202,
+                    "type": "em"
+                  },
+                  {
+                    "start": 211,
+                    "end": 212,
+                    "type": "em"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "     Example: In 2019, an investor sells stocks, resulting in a $1 million capital gain. Within 180 days, the investor creates a qualified opportunity fund, places that $1 million gain in the fund, and uses the entire amount to invest in a qualified opportunity zone property. The investor lists the $1 million gain on IRS Form 8949, but does not need to pay taxes on that amount in 2020. The investor also files IRS Form 8996 (in connection with the qualified opportunity fund) for that year and each subsequent year. In 2026, the investor has held the qualified opportunity zone property for seven years, and sells it for $1 million (resulting in no additional capital gain or loss). In 2027, the investor pays capital gains tax on $850,000 of the original gain because of the 15% decrease. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 793,
+                    "type": "em"
+                  },
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "strong"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "If the investor suffers a loss after selling or exchanging the qualified opportunity zone property, then the investor receives another benefit. If the value of the sale of the qualified opportunity zone property is less than the amount of the deferred gain, then any savings is subtracted from the amount of the sale instead of the deferred gain amount. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "     Example: In 2019, an investor sells stocks, resulting in a $1 million capital gain. Within 180 days, the investor creates a qualified opportunity fund, places that $1 million gain in the fund, and uses the entire amount to invest in a qualified opportunity zone property. The investor lists the $1 million gain on IRS Form 8949, but does not need to pay taxes on that amount in 2020. The investor also files IRS Form 8996 (in connection with the qualified opportunity fund) for that year and each subsequent year. In 2026, the investor has held the qualified opportunity zone property for seven years, and sells it for $800,000. In 2027, the investor pays capital gains taxes on $650,000 of the original gain. This amount is derived from the sale amount ($800,000) minus the savings equal to 15% of the deferred gain ($150,000).",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 833,
+                    "type": "em"
+                  },
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "strong"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "An investor who holds an investment in a qualified opportunity zone property for at least ten years receives an additional benefit. Once the investor sells or exchanges the qualified opportunity zone property, the basis of the qualified opportunity zone property becomes equal to “the fair market value of such investment on the date that the investment is sold or exchanged.” 26 U.S.C. 1400Z–2(c). Because “an arm’s-length sale of property near the valuation date is the best indicium of its fair market value on the valuation date” (Estate of Noble v. Comm'r, T.C.M. (RIA) 2005-002 (T.C. 2005)), this provision has the effect of minimizing—if not eliminating—capital gains tax paid on the sale of the qualified opportunity zone property (separate from the recognition of the deferred gain). See https://www.wellsfargo.com/the-private-bank/insights/planning/wpu-qualified-opportunity-zones/ (last visited Feb. 27, 2019) (characterizing this benefit as “[n]o tax on appreciation” and providing examples of these benefits).",
+                "spans": [
+                  {
+                    "start": 535,
+                    "end": 560,
+                    "type": "em"
+                  },
+                  {
+                    "start": 793,
+                    "end": 797,
+                    "type": "em"
+                  },
+                  {
+                    "start": 797,
+                    "end": 891,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.wellsfargo.com/the-private-bank/insights/planning/wpu-qualified-opportunity-zones/"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "     Example: In 2019, an investor sells stocks, resulting in a $1 million capital gain. Within 180 days, the investor creates a qualified opportunity fund, places that $1 million gain in the fund, and uses the entire amount to invest in a qualified opportunity zone property. The investor lists the $1 million gain on IRS Form 8949, but does not need to pay taxes on that amount in 2020. The investor also files IRS Form 8996 (in connection with the qualified opportunity fund) for that year and each subsequent year. In 2026, the investor has held the qualified opportunity zone property for seven years, but does not sell it. In 2027, the investor pays capital gains tax on $850,000 of the original gain because of the 15% decrease. In 2029, after having owned the qualified opportunity zone property for ten years, the investor sells it for $2 million, representing an appreciation of $1 million. Because the investor has held the property for ten years, the investor does not need to pay any capital gains tax on the additional $1 million, assuming the property’s sale was carried out as an arm’s-length transaction. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 1122,
+                    "type": "em"
+                  },
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "strong"
+                  }
+                ]
+              },
+              {
+                "type": "heading1",
+                "text": "V. Conclusion",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "To benefit from qualified opportunity zones, an investor must reinvest a capital gain into a qualified opportunity fund within 180 days of receiving the gain. The investor then uses that entity to invest in a qualified opportunity zone property, which may be a stock, partnership interest, or business property. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "By doing so, the investor may defer paying capital gains tax on the gain until the tax year associated with the earlier of: (1) the date the investor sells or exchanges the qualified opportunity zone property, or (2) December 31, 2026. If the investor maintains the investment for at least five but fewer than seven years before selling or exchanging it, then the amount of taxable gain is reduced by 10%. If the investor maintains the investment for seven years or longer, then the amount of taxable gain is reduced by an additional 5%. If the investor holds the qualified opportunity zone property for ten years or more, then any capital gain associated with its sale is likely not taxable. ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": " ",
+                "spans": []
+              },
+              {
+                "type": "paragraph",
+                "text": "            ",
+                "spans": []
+              }
+            ]
+          }
+        ],
+        "id": "left_content$c4cf979a-4c91-4e4c-bfa0-7844a6349ecf",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}
