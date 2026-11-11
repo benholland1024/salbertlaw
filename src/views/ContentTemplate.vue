@@ -16,9 +16,10 @@
           {{post.blog_post_title[0].text}}
         </div>
         <div class="red-date">
-          {{ months[new Date(post.blog_date).getMonth()]}}
-          {{new Date(post.blog_date).getDate()}},
-          {{new Date(post.blog_date).getFullYear()}}
+          <!-- "YYYY-MM-DD" parses as UTC midnight, so read it back in UTC; local getters showed the previous day in the US. -->
+          {{ months[new Date(post.blog_date).getUTCMonth()]}}
+          {{new Date(post.blog_date).getUTCDate()}},
+          {{new Date(post.blog_date).getUTCFullYear()}}
         </div>
         <prismic-rich-text :field="post.blog_content"></prismic-rich-text>
       </div>
@@ -150,7 +151,8 @@ export default {
         return null
     },
     sortedBlogData() {
-      var sortedArray = this.blogData;
+      // Sort a copy: blogData is the shared content object from src/content.
+      var sortedArray = (this.blogData || []).slice();
       sortedArray.sort(function(a,b){
         // Turn strings into dates, and then subtract them
         // to get a value that is either negative, positive, or zero.

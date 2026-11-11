@@ -223,17 +223,13 @@ export default {
       this.contact_info = content.getContactInfo().data;
     },
     refreshPageData(pageID) {
-      this.left_content = {}
-      this.header = {}
-      this.map_content = {}
-
       const document = content.getPage(pageID);
       if (!document) {
         console.log("Page not found.");
         this.$router.push('/')
         return;
       }
-      let doc_data = document.data.body;
+      const doc_data = document.data.body;
       this.left_content = doc_data.find(o => o.slice_type === 'left_content');
       this.right_content = doc_data.find(o => o.slice_type === 'right_content');
       this.header = doc_data.find(o => o.slice_type === 'header');
