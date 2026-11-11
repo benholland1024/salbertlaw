@@ -51,10 +51,14 @@ Rich-text fields are arrays of blocks:
 ## Making a change
 
 1. Work on a branch, never directly on `master`.
-2. Edit the content files. Put new images in `public/content/images/` with a short lowercase name,
-   and compress photos to a few hundred KB at most.
-3. Run `npm run build`; it must finish without errors. Then run `npm run serve`, open each changed
-   page, and check the text, formatting and links.
+2. Edit the content files. Put new images in `public/content/images/` with a short lowercase name
+   and the extension that matches the file's real format (photos are `.jpg`), and compress photos
+   to a few hundred KB at most.
+3. Run `npm run build`; it must finish without errors. It runs the content check first
+   (`npm run check`), which catches a file name that doesn't match its `uid`, spans that don't
+   fit their text, missing images, links to missing pages and malformed dates. It cannot catch a
+   span on the wrong words, so then run `npm run serve`, open each changed page, and check the
+   text, formatting and links.
 4. Open a pull request that says in plain language what changed. Merging to `master` publishes it.
 
 ## Rules

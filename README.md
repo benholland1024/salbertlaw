@@ -31,15 +31,21 @@ Uses Node 22 (`.nvmrc`).
 ```
 npm install
 npm run serve    # dev server with hot reload
-npm run build    # production build into dist/
+npm run check    # validate the content files
+npm run build    # runs the check, then builds into dist/
 ```
+
+The content check (`scripts/check-content.js`) makes sure page file names match their `uid`,
+rich-text spans fit their text, images and linked pages exist, and post dates are `YYYY-MM-DD`.
+Because the build runs it first, a broken edit fails the Netlify build and the live site stays
+as it was.
 
 Notes on keeping this 2019 toolchain building on current Node:
 
 - `sass` (Dart Sass) replaces `node-sass`, which no longer installs.
-- The npm scripts set `NODE_OPTIONS=--openssl-legacy-provider`, which webpack 4 needs on Node 17+.
-- `vue.config.js` deletes `global.MessageChannel` for the build. Without it, a build with a cold
-  cache never exits, because Vue 2.5's template compiler keeps a MessageChannel open.
+- `.npmrc` sets `node-options=--openssl-legacy-provider`, which webpack 4 needs on Node 17+.
+- `vue.config.js` loads Vue 2.5's template compiler with `MessageChannel` hidden. Otherwise the
+  compiler opens a MessageChannel, and a build with a cold cache never exits.
 
 ## Hosting and domain
 
