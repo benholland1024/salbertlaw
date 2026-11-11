@@ -1,0 +1,129 @@
+{
+  "id": "XDUyIxAAACEAUJGT",
+  "uid": "our-work",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUyIxAAACEAUJGT%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-01-08T23:28:43+0000",
+  "last_publication_date": "2024-04-17T21:27:48+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Our Work",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Ohio Law Firm Specializing in Civil Litigation, Contracts, Torts, Medical Malpractice, Personal Injury, Wrongful Death, Estate Planning, Wills and Trusts, Appeals, Regulatory Compliance, Real Estate, Employment Discrimination, Business Disputes, and Commercial Transactions",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "Our Work",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/36d6f5086cd914a87d5b40a01e6de7749e46b75f_hands.png?auto=compress,format",
+            "id": "XDU_hRAAACAAUMyG",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$590d7e41-19ac-4e60-b004-e4ab894a6b15",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Achieving Results.",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "heading3",
+              "text": "WITH EXPERIENCE ARGUING CASES IN APPELLATE COURTS ...",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "On five occasions, the Firm has put forth arguments in the Ohio Supreme Court which clarified changes or affirmed existing legal principles affecting the rights of individuals and corporations in the State of Ohio. An argument to the Georgia Supreme Court resulted in the adoption of the Daubert Rule in the State of Georgia. This case was significant to individuals and companies protecting their rights from unscrupulous experts, who are now prohibited from offering ungrounded opinions in civil litigation.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "The Texas Supreme Court considered complex discovery issues clarifying the rights of litigants to full disclosure in the discovery process. In addition to these important arguments, Steve Albert has participated in a number of Circuit Court appellate arguments in the federal system, and multiple arguments in the intermediary appellate courts in the State of Ohio. The Firm's experience in appellate practice demonstrates our dedication to achieving a successful result for the client.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Since joining the firm, Andrew Peterson and Nick Holland have provided clients with valuable, high-level brief writing skills, which are necessary to achieve successful results at the appellate level. ",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "WITH EXPERIENCE IN JURY TRIALS IN OVER TEN DIFFERENT STATES ...",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "The Firm serves clients throughout the United States. We have completed jury trials representing corporations and individuals for personal injury, malpractice, and commercial disputes in Cleveland, Boston, Knoxville, Nashville, Petoskey, El Paso, Savannah, and San Francisco, to name just a few. As a result of the Firm's coast-to-coast experience, our attorneys can assist clients to achieve a result in any location in the United States.",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "WITH EXPERIENCE NEGOTIATING SUCCESSFUL SETTLEMENTS ...",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "While specializing in trial practice, the Firm recognizes that the best result for a client is often achieved by avoiding unnecessary litigation, reaching a settlement that fairly compensates the parties while saving time and expense. The Firm has experience negotiating favorable settlements in a wide variety of cases, from insurance claims and personal injury to landlord-tenant disputes, employment claims, and medical malpractice. ",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$cddcf60c-f20d-418c-bff8-9a9314f5ddd1",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

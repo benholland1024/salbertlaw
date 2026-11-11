@@ -1,0 +1,86 @@
+{
+  "id": "XFn_whMAACQAVzNI",
+  "uid": "healthcare-litigation",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Health Care Litigation",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Healthcare and Medical Malpractice Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/contract.jpg",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Health Care Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "Our attorneys have experience with a wide range of legal issues facing the world of health care. The Firm is equipped to take on the most complex health care litigation, from representing medical contractors and hospitals in negligence actions to pursuing medical malpractice and wrongful death claims on behalf of plaintiffs. ",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

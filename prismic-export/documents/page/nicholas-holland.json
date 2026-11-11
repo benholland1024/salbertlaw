@@ -1,0 +1,246 @@
+{
+  "id": "XEdHhRAAAB4AJul1",
+  "uid": "nicholas-holland",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XEdHhRAAAB4AJul1%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-01-22T16:40:49+0000",
+  "last_publication_date": "2025-03-26T15:42:23+0000",
+  "slugs": [
+    "nicholas-holland"
+  ],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Nicholas Holland",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Attorney Nicholas Holland",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "ATTORNEY",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/7ef37924a9e4d8b61861744414665f0efb6cb9b7_coffee.png?auto=compress,format",
+            "id": "XDfF7RAAACEA4qOJ",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$674eb78f-ab87-42f5-86e1-dfaec52ea7bd",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "paragraph",
+              "text": "Nicholas Holland",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "image",
+              "url": "https://images.prismic.io/salbertlaw/2f73a328a7be3ed7db5d24519fe6f30645ae02d2_nick.jpg?auto=compress,format",
+              "alt": null,
+              "copyright": null,
+              "dimensions": {
+                "width": 2526,
+                "height": 1686
+              },
+              "id": "XFhsDBMAACIAUDo9",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "#fff"
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "Attorney Nick Holland has represented clients in state and federal courts in a wide range of litigation, including personal injury, medical malpractice, wrongful death, products liability, employment discrimination, FMLA, breach of contract, and appellate work. Nick is dedicated to zealous advocacy and achieving results, protecting his clients' interests in complex dispute resolution as well as business development, contract work, liability risk management, mediation, and thoughtful estate planning. ",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Nick graduated cum laude from Case Western Reserve University School of Law, where he served as an editor for the Case Western Reserve Law Review, gained experience in the federal court system, and represented indigent clients in Cuyahoga County through the Milton A. Kramer Criminal Justice Clinic, completing his first jury trial while still in law school. Nick has received awards in the fields of trial tactics and legal writing, including the Paul J. Hergenrӧeder Trial Tactics Award, the CALI Excellence for the Future Award in Trial Tactics, and the Stanley I. and Hope S. Adelstein Environmental Law Award. ",
+              "spans": [
+                {
+                  "start": 15,
+                  "end": 24,
+                  "type": "em"
+                }
+              ],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Before attending law school, Nick received his B.A. in Creative Writing at Denison University, developing skills which inform his ability to effectively advocate for his clients to this day. A proud resident of Northeast Ohio since birth, Nick currently resides in his hometown of Wadsworth with his wife and pets. ",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$6022f3ba-d46b-48cf-bf01-2ba1d0658df8",
+        "slice_type": "left_content",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "contact_us_card_title": [
+            {
+              "type": "paragraph",
+              "text": "Contact Nick",
+              "spans": []
+            }
+          ],
+          "contact_us_card_text": [
+            {
+              "type": "paragraph",
+              "text": "E: njmholland@salbertlaw.com ",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 29,
+                  "type": "strong"
+                },
+                {
+                  "start": 3,
+                  "end": 28,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "mailto:njmholland@salbertlaw.com",
+                    "target": "_blank"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "T: 216.360.0813",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 15,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "success_stories_card_title": [
+            {
+              "type": "paragraph",
+              "text": "Bar Admissions:",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 15,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "success_stories_card_text": [
+            {
+              "type": "paragraph",
+              "text": "Supreme Court of the United States",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Supreme Court of Ohio ",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Northern District of Ohio",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Southern District of Ohio",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Eastern District of Wisconsin ",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Western District of Wisconsin",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "6th Circuit Court of Appeals",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {}
+        ],
+        "id": "right_content$f5f30eb0-595a-4989-bd69-fe2b40df701c",
+        "slice_type": "right_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

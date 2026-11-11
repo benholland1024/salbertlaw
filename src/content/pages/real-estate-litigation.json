@@ -1,0 +1,85 @@
+{
+  "id": "XFn_dxMAACMAVzH5",
+  "uid": "real-estate-litigation",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Real Estate Law",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Real Estate Law",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/contract.jpg",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Real Estate Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "Our attorneys can apply their talents and expertise to serve both landlords and tenants in lease disputes and other real estate matters, seeking to achieve the best possible resolution while avoiding unnecessary expense for the client. Since the addition of Andrew Peterson and Nick Holland, the Firm has continued to expand its representation of clients and negotiate successful resolutions to real estate disputes.",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

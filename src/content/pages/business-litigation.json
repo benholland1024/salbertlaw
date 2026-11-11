@@ -1,0 +1,90 @@
+{
+  "id": "XDUw1hAAACEAUIve",
+  "uid": "business-litigation",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Business/Commercial Litigation",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Business and Commercial Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/contract.jpg",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$6bb90f5d-56ac-4cbe-9fd9-4f0ef05c5c8e",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Business/Commercial Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "For many years, individual businesses, publicly-traded companies, and international corporations have entrusted Steve Albert with important business disputes. These disputes have involved contract litigation, financial service obligations, interpretations of insurance contracts, and risk management functions to name a few. While the result in any particular litigation cannot be guaranteed, the Firm's clients have been very satisfied with the representation and continue to return to the Firm for legal services as needed.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Since the Firm was established in 2012, Andy Peterson and Nick Holland, together with paralegal Rebecca Cimino, have joined to form a powerful team in the representation of clients for business and commercial litigation.",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$9a546b19-4b12-4811-b29c-1e816324b1fe",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

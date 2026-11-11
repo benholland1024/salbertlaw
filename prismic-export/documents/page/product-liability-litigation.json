@@ -1,0 +1,104 @@
+{
+  "id": "XDUxgRAAACAAUI7W",
+  "uid": "product-liability-litigation",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUxgRAAACAAUI7W%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-01-08T23:25:57+0000",
+  "last_publication_date": "2024-04-17T20:29:15+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Product Liability Litigation",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Products Liability Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Product Liability Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "For many years, Mr. Albert has successfully represented private and public companies whose products have been attacked by consumers claiming injuries and damages. He has extensive experience in class action litigation defense and the procedures mandated by multi-district litigation (MDL).",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Because of the Firm's national representation of corporations in product liability litigation, it has also undertaken the representation of parties injured by defective products. This representation, of course, has occurred only when there is no conflict of interest with the Firm's long-standing clients.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Since its founding, the Firm's ability to represent clients in product liability litigation has been enhanced with the additions of Andrew Peterson, Nick Holland, and Rebecca Cimino.",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

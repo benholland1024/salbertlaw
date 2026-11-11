@@ -1,0 +1,98 @@
+{
+  "id": "XDUxJxAAACAAUI1C",
+  "uid": "employment-litigation",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Employment Litigation",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Employment Law, Wrongful Termination, Employment Discrimination, FMLA",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/contract.jpg",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$59da34a7-4fbb-41b1-968e-13c2810c7a42",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Employment Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "Mr. Albert has many years of experience representing employers in creating policies to comply with State and Federal employment law, as well as in serious claims asserted against them concerning violations of State and Federal employment laws. ",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "The Firm has also represented executives and other employees in negotiating employment agreements and in representing individual plaintiffs when their rights have been violated by the employer, including claims for wrongful termination, employment discrimination, and FMLA issues. ",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "This tradition of high-level representation of both plaintiffs and defendants in employment disputes has been enhanced with the additions of Andrew Peterson, Nick Holland, and Rebecca Cimino to the Firm.",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$5bc27cd9-93fe-43e8-98d7-da55b8fba2d9",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

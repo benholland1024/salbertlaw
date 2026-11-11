@@ -1,0 +1,86 @@
+{
+  "id": "XFPMvhMAACMAO-pT",
+  "uid": "personal-injury-litigation",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Complex Personal Injury",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Complex Personal Injury, Tort, and Wrongful Death Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/contract.jpg",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$59da34a7-4fbb-41b1-968e-13c2810c7a42",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Personal Injury Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "The Firm has obtained favorable results for many clients who were the victims of wrongful injuries or death, including automobile accidents and the exacerbation of complex preexisting medical conditions. Through careful investigation, research, and effective communication, the Firm offers the highest level of legal services to clients seeking compensation for personal injury and wrongful death claims.",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$5bc27cd9-93fe-43e8-98d7-da55b8fba2d9",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

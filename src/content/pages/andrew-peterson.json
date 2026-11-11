@@ -1,0 +1,217 @@
+{
+  "id": "XEdIzBAAAB8AJu8x",
+  "uid": "andrew-peterson",
+  "type": "page",
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Andrew S. Peterson",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Attorney Andrew Peterson",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "ATTORNEY",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "/content/images/coffee.jpg",
+            "id": "XDfF7RAAACEA4qOJ",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$9d80931a-e650-4e26-a634-e6ed5866f9a2",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "paragraph",
+              "text": "Andrew S. Peterson",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "image",
+              "url": "/content/images/andrew.jpg",
+              "alt": null,
+              "copyright": null,
+              "dimensions": {
+                "width": 512,
+                "height": 342
+              },
+              "id": "XFhuDBMAACMAUEMn",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "#fff"
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "Attorney Andrew Peterson has experience representing clients in a wide variety of civil and business matters. Andy's litigation experience includes both appellate work, trial work, and mediations in state and federal courts across the country in areas such as personal injury, trade secrets, professional malpractice, wrongful death, employment, products liability, and intellectual property. Andy's business work includes state and federal regulatory compliance, contract management, and IP strategy and protection for real estate businesses, consumer-oriented businesses, and government contractors.",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "In every situation, Andy is passionate about achieving the best possible outcomes for his clients, in litigation as well as business issues. Andy strongly believes that careful legal planning can avoid most issues before they occur and that fair-minded negotiation can end most disputes cost effectively. For those disputes that require litigation, Andy provides firm, thoughtful, and confident representation to give every client the best shot at their best outcome.",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Andy graduated magna cum laude from Case Western Reserve University School of Law and received the award of Order of the Coif. As a law student, Andy served as Executive Articles Editor for the Case Western Reserve Law Review, Volume 67, and represented indigent clients in civil disputes through the Milton A. Kramer Civil Litigation Clinic.",
+              "spans": [
+                {
+                  "start": 15,
+                  "end": 31,
+                  "type": "em"
+                }
+              ],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Before law school, Andy received his B.A. in History from Thomas Edison State College. A lifelong Ohio native, Andy loves music, participating in his local church, and enjoying all that greater Cleveland has to offer with his wife and three daughters.",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [],
+        "id": "left_content$09c94bac-4788-48b7-9d67-8093ea4353de",
+        "slice_type": "left_content",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "contact_us_card_title": [
+            {
+              "type": "paragraph",
+              "text": "Contact Andrew",
+              "spans": []
+            }
+          ],
+          "contact_us_card_text": [
+            {
+              "type": "paragraph",
+              "text": "E: apeterson@salbertlaw.com",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 27,
+                  "type": "strong"
+                },
+                {
+                  "start": 3,
+                  "end": 27,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "mailto:apeterson@salbertlaw.com",
+                    "target": "_blank"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "T: 216.360.0812",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 15,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "success_stories_card_title": [
+            {
+              "type": "paragraph",
+              "text": "Bar Admissions:",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 15,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "success_stories_card_text": [
+            {
+              "type": "paragraph",
+              "text": "Supreme Court of the United States",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Supreme Court of Ohio ",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Northern District of Ohio ",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Southern District of Ohio",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Eastern District of Wisconsin ",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "6th Circuit Court of Appeals",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {}
+        ],
+        "id": "right_content$c26a5158-d0a2-4266-9706-1688f09b6f42",
+        "slice_type": "right_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

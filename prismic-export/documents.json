@@ -1,0 +1,2805 @@
+{
+  "exported_at": "2026-11-11T15:08:09Z",
+  "source": "https://salbertlaw.prismic.io/api/v2",
+  "master_ref": "Z-QglBIAACIAdnH7",
+  "results": [
+    {
+      "id": "XFn_whMAACQAVzNI",
+      "uid": "healthcare-litigation",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XFn_whMAACQAVzNI%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-02-05T21:27:58+0000",
+      "last_publication_date": "2024-04-17T21:20:40+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Health Care Litigation",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Healthcare and Medical Malpractice Litigation",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "AREAS OF EXPERTISE",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+                "id": "XDZ2exAAACAAViYO",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Health Care Litigation",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Our attorneys have experience with a wide range of legal issues facing the world of health care. The Firm is equipped to take on the most complex health care litigation, from representing medical contractors and hospitals in negligence actions to pursuing medical malpractice and wrongful death claims on behalf of plaintiffs. ",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUxgRAAACAAUI7W",
+      "uid": "product-liability-litigation",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUxgRAAACAAUI7W%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:25:57+0000",
+      "last_publication_date": "2024-04-17T20:29:15+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Product Liability Litigation",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Products Liability Litigation",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "AREAS OF EXPERTISE",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+                "id": "XDZ2exAAACAAViYO",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Product Liability Litigation",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "For many years, Mr. Albert has successfully represented private and public companies whose products have been attacked by consumers claiming injuries and damages. He has extensive experience in class action litigation defense and the procedures mandated by multi-district litigation (MDL).",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Because of the Firm's national representation of corporations in product liability litigation, it has also undertaken the representation of parties injured by defective products. This representation, of course, has occurred only when there is no conflict of interest with the Firm's long-standing clients.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Since its founding, the Firm's ability to represent clients in product liability litigation has been enhanced with the additions of Andrew Peterson, Nick Holland, and Rebecca Cimino.",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XEdHhRAAAB4AJul1",
+      "uid": "nicholas-holland",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XEdHhRAAAB4AJul1%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-22T16:40:49+0000",
+      "last_publication_date": "2025-03-26T15:42:23+0000",
+      "slugs": [
+        "nicholas-holland"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Nicholas Holland",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Attorney Nicholas Holland",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "ATTORNEY",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/7ef37924a9e4d8b61861744414665f0efb6cb9b7_coffee.png?auto=compress,format",
+                "id": "XDfF7RAAACEA4qOJ",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$674eb78f-ab87-42f5-86e1-dfaec52ea7bd",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Nicholas Holland",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "image",
+                  "url": "https://images.prismic.io/salbertlaw/2f73a328a7be3ed7db5d24519fe6f30645ae02d2_nick.jpg?auto=compress,format",
+                  "alt": null,
+                  "copyright": null,
+                  "dimensions": {
+                    "width": 2526,
+                    "height": 1686
+                  },
+                  "id": "XFhsDBMAACIAUDo9",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Attorney Nick Holland has represented clients in state and federal courts in a wide range of litigation, including personal injury, medical malpractice, wrongful death, products liability, employment discrimination, FMLA, breach of contract, and appellate work. Nick is dedicated to zealous advocacy and achieving results, protecting his clients' interests in complex dispute resolution as well as business development, contract work, liability risk management, mediation, and thoughtful estate planning. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nick graduated cum laude from Case Western Reserve University School of Law, where he served as an editor for the Case Western Reserve Law Review, gained experience in the federal court system, and represented indigent clients in Cuyahoga County through the Milton A. Kramer Criminal Justice Clinic, completing his first jury trial while still in law school. Nick has received awards in the fields of trial tactics and legal writing, including the Paul J. Hergenrӧeder Trial Tactics Award, the CALI Excellence for the Future Award in Trial Tactics, and the Stanley I. and Hope S. Adelstein Environmental Law Award. ",
+                  "spans": [
+                    {
+                      "start": 15,
+                      "end": 24,
+                      "type": "em"
+                    }
+                  ],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Before attending law school, Nick received his B.A. in Creative Writing at Denison University, developing skills which inform his ability to effectively advocate for his clients to this day. A proud resident of Northeast Ohio since birth, Nick currently resides in his hometown of Wadsworth with his wife and pets. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$6022f3ba-d46b-48cf-bf01-2ba1d0658df8",
+            "slice_type": "left_content",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "contact_us_card_title": [
+                {
+                  "type": "paragraph",
+                  "text": "Contact Nick",
+                  "spans": []
+                }
+              ],
+              "contact_us_card_text": [
+                {
+                  "type": "paragraph",
+                  "text": "E: njmholland@salbertlaw.com ",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 29,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 3,
+                      "end": 28,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:njmholland@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T: 216.360.0813",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "success_stories_card_title": [
+                {
+                  "type": "paragraph",
+                  "text": "Bar Admissions:",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "success_stories_card_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Supreme Court of the United States",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Supreme Court of Ohio ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Northern District of Ohio",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Southern District of Ohio",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Eastern District of Wisconsin ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Western District of Wisconsin",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6th Circuit Court of Appeals",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {}
+            ],
+            "id": "right_content$f5f30eb0-595a-4989-bd69-fe2b40df701c",
+            "slice_type": "right_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUxJxAAACAAUI1C",
+      "uid": "employment-litigation",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUxJxAAACAAUI1C%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:24:26+0000",
+      "last_publication_date": "2024-04-17T21:34:09+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Employment Litigation",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Employment Law, Wrongful Termination, Employment Discrimination, FMLA",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "AREAS OF EXPERTISE",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+                "id": "XDZ2exAAACAAViYO",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$59da34a7-4fbb-41b1-968e-13c2810c7a42",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Employment Litigation",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Mr. Albert has many years of experience representing employers in creating policies to comply with State and Federal employment law, as well as in serious claims asserted against them concerning violations of State and Federal employment laws. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Firm has also represented executives and other employees in negotiating employment agreements and in representing individual plaintiffs when their rights have been violated by the employer, including claims for wrongful termination, employment discrimination, and FMLA issues. ",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "This tradition of high-level representation of both plaintiffs and defendants in employment disputes has been enhanced with the additions of Andrew Peterson, Nick Holland, and Rebecca Cimino to the Firm.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$5bc27cd9-93fe-43e8-98d7-da55b8fba2d9",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUw1hAAACEAUIve",
+      "uid": "business-litigation",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUw1hAAACEAUIve%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:23:06+0000",
+      "last_publication_date": "2024-04-17T20:31:23+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Business/Commercial Litigation",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Business and Commercial Litigation",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "AREAS OF EXPERTISE",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+                "id": "XDZ2exAAACAAViYO",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$6bb90f5d-56ac-4cbe-9fd9-4f0ef05c5c8e",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Business/Commercial Litigation",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "For many years, individual businesses, publicly-traded companies, and international corporations have entrusted Steve Albert with important business disputes. These disputes have involved contract litigation, financial service obligations, interpretations of insurance contracts, and risk management functions to name a few. While the result in any particular litigation cannot be guaranteed, the Firm's clients have been very satisfied with the representation and continue to return to the Firm for legal services as needed.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Since the Firm was established in 2012, Andy Peterson and Nick Holland, together with paralegal Rebecca Cimino, have joined to form a powerful team in the representation of clients for business and commercial litigation.",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$9a546b19-4b12-4811-b29c-1e816324b1fe",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDPZ2RAAACAASsCH",
+      "uid": "home",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDPZ2RAAACAASsCH%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-07T23:00:45+0000",
+      "last_publication_date": "2025-02-27T18:49:35+0000",
+      "slugs": [
+        "home"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Home",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Cleveland, Ohio Law Firm Specializing in Civil Litigation, Contracts, Torts, Appeals, Regulatory Compliance, Wrongful Death, Medical Malpractice, Personal Injury, Estate Planning, Wills, Trusts, Real Estate, Employment Discrimination, Business Disputes, and Commercial Transactions",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "ACHIEVING RESULTS",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/8023b8cb7bcd436319fe7670a471de04f43ab4d7_columns.png?auto=compress,format",
+                "id": "XDUmxRAAACIAUF8h",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$ad9d1d2d-2060-4c2a-b194-b6eace574161",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "paragraph",
+                  "text": "The Albert Law Firm provides the highest standards of legal services with the most modern technology to achieve outstanding results for our clients. We solve legal problems with our expertise in negotiation, trial and appellate practice, mediation, and arbitration.",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "We invite you to learn more about our areas of expertise at the links below,\nview  MR. ALBERT'S PROFESSIONAL BIOGRAPHY, or CONTACT US today.",
+                  "spans": [
+                    {
+                      "start": 82,
+                      "end": 83,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 83,
+                      "end": 118,
+                      "type": "hyperlink",
+                      "data": {
+                        "id": "XDUvwxAAACIAUIcc",
+                        "type": "page",
+                        "tags": [],
+                        "lang": "en-us",
+                        "slug": "-",
+                        "first_publication_date": "2019-01-08T23:20:40+0000",
+                        "last_publication_date": "2024-04-17T21:10:30+0000",
+                        "uid": "steven-w-albert",
+                        "link_type": "Document",
+                        "isBroken": false
+                      }
+                    },
+                    {
+                      "start": 123,
+                      "end": 133,
+                      "type": "hyperlink",
+                      "data": {
+                        "id": "XDUzMxAAACAAUJZS",
+                        "type": "page",
+                        "tags": [],
+                        "lang": "en-us",
+                        "slug": "-",
+                        "first_publication_date": "2019-01-08T23:33:12+0000",
+                        "last_publication_date": "2024-04-17T20:25:30+0000",
+                        "uid": "contact-us",
+                        "link_type": "Document",
+                        "isBroken": false
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$6c08e7c4-74d1-41b2-a1be-24beb4573224",
+            "slice_type": "left_content",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "map_title": [
+                {
+                  "type": "heading1",
+                  "text": "National Experience",
+                  "spans": []
+                }
+              ],
+              "map_image": {
+                "dimensions": {
+                  "width": 420,
+                  "height": 259
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/cf4ace02c496d6411c6b8756e74ec08a81a7008f_home-map.png?auto=compress,format",
+                "id": "XDUmuBAAACEAUF7m",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {
+                "map_icon": {
+                  "dimensions": {
+                    "width": 15,
+                    "height": 22
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/salbertlaw%2F37d76b87-126c-4b09-b12d-c6e65a4d59bb_redmarker.gif?auto=compress,format",
+                  "id": "XGs28BAAACEAttv4",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                  }
+                },
+                "icon_title": [
+                  {
+                    "type": "heading1",
+                    "text": "MORE THAN 140 JURY TRIALS",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "icon_description1": [
+                  {
+                    "type": "paragraph",
+                    "text": "» 125 trials in Ohio",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "» 15 others across the U.S.",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ]
+              },
+              {
+                "map_icon": {
+                  "dimensions": {
+                    "width": 19,
+                    "height": 24
+                  },
+                  "alt": null,
+                  "copyright": null,
+                  "url": "https://images.prismic.io/salbertlaw%2Fd9f1557d-85b5-4a9a-926b-d477c27983c7_yellowmarker.gif?auto=compress,format",
+                  "id": "XGs27hAAACAAttvv",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                  }
+                },
+                "icon_title": [
+                  {
+                    "type": "heading1",
+                    "text": "22 APPELLATE COURT APPEARANCES",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ],
+                "icon_description1": [
+                  {
+                    "type": "paragraph",
+                    "text": "» 20 appearances in Ohio",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "» 1 in Texas",
+                    "spans": [],
+                    "direction": "ltr"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "» 1 in Georgia",
+                    "spans": [],
+                    "direction": "ltr"
+                  }
+                ]
+              }
+            ],
+            "id": "map_content$d75a84ce-4025-40fb-b6a3-c5f583f34acf",
+            "slice_type": "map_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDOsOBAAACIASfdp",
+      "uid": "firm-overview",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDOsOBAAACIASfdp%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-07T19:45:01+0000",
+      "last_publication_date": "2024-04-17T20:30:13+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Firm Overview",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Contracts and Litigation",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "FIRM OVERVIEW",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/363b012115e22da682022989f1c2a2f0b7cfd268_gavel.png?auto=compress,format",
+                "id": "XDUmyBAAACEAUF8v",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$fb499a4d-6cad-401d-9069-a8d0f629899d",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "paragraph",
+                  "text": "After practicing law for 40 years as a partner with national law firms, Steve Albert chose to open a law firm dedicated to delivering legal solutions for long-standing clients and new clients who have serious legal needs. The Albert Law Firm was thus established on December 1, 2012. Since that time, the Firm has grown to serve its clients even more efficiently.",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "The Firm is staffed to handle business/commercial litigation, products liability litigation, real estate litigation, healthcare litigation, complex personal injury litigation, and employment litigation, and serves clients in the resolution of disputes by mediation, arbitration, or trial. Our attorneys are capable of advocating for clients in both state and federal appellate courts.",
+                  "spans": []
+                },
+                {
+                  "type": "heading3",
+                  "text": "EXPERIENCE.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As a nationally-recognized civil litigator, Steve has completed jury trials throughout the United States. The Firm's focus has been to achieve success through negotiation where possible, and through arbitration or trial where necessary.",
+                  "spans": []
+                },
+                {
+                  "type": "heading3",
+                  "text": "DEDICATION.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Firm believes in dedication to client service above all else. The formation of this Firm has provided our attorneys with the opportunity to solve problems for clients cost-effectively through mediation, arbitration, or jury trial. The Firm focuses on the highest level of preparation and early assessment which will lead to a favorable resolution of disputes for its clients.",
+                  "spans": []
+                },
+                {
+                  "type": "heading3",
+                  "text": "SUCCESS.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Our office is equipped with the latest technology and research tools to enable the Firm to compete successfully against the largest law firms in the most complex litigation. Because of this technology and the in-depth experience of the Firm's attorneys in litigation services, the combination of which affords the highest level of service and expertise, every client who brings a matter to the Firm can be confident that their case will receive the personal attention of the dedicated members of the Firm in achieving a successful resolution.",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$1d723100-1c4e-4e5c-882a-71fcf3b42e6e",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUzMxAAACAAUJZS",
+      "uid": "contact-us",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUzMxAAACAAUJZS%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:33:12+0000",
+      "last_publication_date": "2024-04-17T20:25:30+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Contact Us",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Contact Ohio Law Firm",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/619c14e047297d6e8115a3385b279dec3cfe3114_blurrycity.png?auto=compress,format",
+                "id": "XDeqexAAAB8A4io2",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$bf1ac8b1-b28f-42fa-92f7-a17028d4b665",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "map_title": [
+                {
+                  "type": "heading1",
+                  "text": "Our Location",
+                  "spans": []
+                }
+              ],
+              "map_image": {
+                "dimensions": {
+                  "width": 420,
+                  "height": 259
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/74cf28cc26111d9db1cd274962034808f7675b89_contact-map.png?auto=compress,format",
+                "id": "XDesGhAAAB4A4jFn",
+                "edit": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 1,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {
+                "map_icon": {},
+                "icon_title": [],
+                "icon_description1": []
+              }
+            ],
+            "id": "map_content$67101526-5205-4a46-af69-d16584a99947",
+            "slice_type": "map_content",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Contact Us",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "29425 Chagrin Blvd.\nSuite 216\nPepper Pike, OH 44122",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steven Albert\nT: 216.360.0807\nE: salbert@salbertlaw.com",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 33,
+                      "end": 55,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:salbert@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nicholas Holland\nT: 216.360.0813\nE: njmholland@salbertlaw.com",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 17,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 36,
+                      "end": 61,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:njmholland@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Andrew Peterson\nT: 216.360.0812\nE: apeterson@salbertlaw.com",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 16,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 35,
+                      "end": 59,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:apeterson@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rebecca Cimino\nT: 216.360.0800\nE: rcimino@salbertlaw.com",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 34,
+                      "end": 56,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:apeterson@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$46ef8155-6915-4b44-b7bb-3af953f05f57",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XFPMvhMAACMAO-pT",
+      "uid": "personal-injury-litigation",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XFPMvhMAACMAO-pT%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-02-01T04:43:56+0000",
+      "last_publication_date": "2024-04-17T21:22:59+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Complex Personal Injury",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Complex Personal Injury, Tort, and Wrongful Death Litigation",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "AREAS OF EXPERTISE",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+                "id": "XDZ2exAAACAAViYO",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$59da34a7-4fbb-41b1-968e-13c2810c7a42",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Personal Injury Litigation",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "The Firm has obtained favorable results for many clients who were the victims of wrongful injuries or death, including automobile accidents and the exacerbation of complex preexisting medical conditions. Through careful investigation, research, and effective communication, the Firm offers the highest level of legal services to clients seeking compensation for personal injury and wrongful death claims.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$5bc27cd9-93fe-43e8-98d7-da55b8fba2d9",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XEdIzBAAAB8AJu8x",
+      "uid": "andrew-peterson",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XEdIzBAAAB8AJu8x%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-22T16:46:10+0000",
+      "last_publication_date": "2025-03-26T15:43:16+0000",
+      "slugs": [
+        "andrew-s.-peterson"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Andrew S. Peterson",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Attorney Andrew Peterson",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "ATTORNEY",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/7ef37924a9e4d8b61861744414665f0efb6cb9b7_coffee.png?auto=compress,format",
+                "id": "XDfF7RAAACEA4qOJ",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$9d80931a-e650-4e26-a634-e6ed5866f9a2",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Andrew S. Peterson",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "image",
+                  "url": "https://images.prismic.io/salbertlaw/667d33984e03dc369381110a1252c70fb49e95dd_andrew.jpg?auto=compress,format",
+                  "alt": null,
+                  "copyright": null,
+                  "dimensions": {
+                    "width": 512,
+                    "height": 342
+                  },
+                  "id": "XFhuDBMAACMAUEMn",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Attorney Andrew Peterson has experience representing clients in a wide variety of civil and business matters. Andy's litigation experience includes both appellate work, trial work, and mediations in state and federal courts across the country in areas such as personal injury, trade secrets, professional malpractice, wrongful death, employment, products liability, and intellectual property. Andy's business work includes state and federal regulatory compliance, contract management, and IP strategy and protection for real estate businesses, consumer-oriented businesses, and government contractors.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In every situation, Andy is passionate about achieving the best possible outcomes for his clients, in litigation as well as business issues. Andy strongly believes that careful legal planning can avoid most issues before they occur and that fair-minded negotiation can end most disputes cost effectively. For those disputes that require litigation, Andy provides firm, thoughtful, and confident representation to give every client the best shot at their best outcome.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Andy graduated magna cum laude from Case Western Reserve University School of Law and received the award of Order of the Coif. As a law student, Andy served as Executive Articles Editor for the Case Western Reserve Law Review, Volume 67, and represented indigent clients in civil disputes through the Milton A. Kramer Civil Litigation Clinic.",
+                  "spans": [
+                    {
+                      "start": 15,
+                      "end": 31,
+                      "type": "em"
+                    }
+                  ],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Before law school, Andy received his B.A. in History from Thomas Edison State College. A lifelong Ohio native, Andy loves music, participating in his local church, and enjoying all that greater Cleveland has to offer with his wife and three daughters.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [],
+            "id": "left_content$09c94bac-4788-48b7-9d67-8093ea4353de",
+            "slice_type": "left_content",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "contact_us_card_title": [
+                {
+                  "type": "paragraph",
+                  "text": "Contact Andrew",
+                  "spans": []
+                }
+              ],
+              "contact_us_card_text": [
+                {
+                  "type": "paragraph",
+                  "text": "E: apeterson@salbertlaw.com",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 27,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 3,
+                      "end": 27,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:apeterson@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T: 216.360.0812",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "success_stories_card_title": [
+                {
+                  "type": "paragraph",
+                  "text": "Bar Admissions:",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "success_stories_card_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Supreme Court of the United States",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Supreme Court of Ohio ",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Northern District of Ohio ",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Southern District of Ohio",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Eastern District of Wisconsin ",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6th Circuit Court of Appeals",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {}
+            ],
+            "id": "right_content$c26a5158-d0a2-4266-9706-1688f09b6f42",
+            "slice_type": "right_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUyIxAAACEAUJGT",
+      "uid": "our-work",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUyIxAAACEAUJGT%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:28:43+0000",
+      "last_publication_date": "2024-04-17T21:27:48+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Our Work",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Ohio Law Firm Specializing in Civil Litigation, Contracts, Torts, Medical Malpractice, Personal Injury, Wrongful Death, Estate Planning, Wills and Trusts, Appeals, Regulatory Compliance, Real Estate, Employment Discrimination, Business Disputes, and Commercial Transactions",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "Our Work",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/36d6f5086cd914a87d5b40a01e6de7749e46b75f_hands.png?auto=compress,format",
+                "id": "XDU_hRAAACAAUMyG",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$590d7e41-19ac-4e60-b004-e4ab894a6b15",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Achieving Results.",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "heading3",
+                  "text": "WITH EXPERIENCE ARGUING CASES IN APPELLATE COURTS ...",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "On five occasions, the Firm has put forth arguments in the Ohio Supreme Court which clarified changes or affirmed existing legal principles affecting the rights of individuals and corporations in the State of Ohio. An argument to the Georgia Supreme Court resulted in the adoption of the Daubert Rule in the State of Georgia. This case was significant to individuals and companies protecting their rights from unscrupulous experts, who are now prohibited from offering ungrounded opinions in civil litigation.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Texas Supreme Court considered complex discovery issues clarifying the rights of litigants to full disclosure in the discovery process. In addition to these important arguments, Steve Albert has participated in a number of Circuit Court appellate arguments in the federal system, and multiple arguments in the intermediary appellate courts in the State of Ohio. The Firm's experience in appellate practice demonstrates our dedication to achieving a successful result for the client.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Since joining the firm, Andrew Peterson and Nick Holland have provided clients with valuable, high-level brief writing skills, which are necessary to achieve successful results at the appellate level. ",
+                  "spans": []
+                },
+                {
+                  "type": "heading3",
+                  "text": "WITH EXPERIENCE IN JURY TRIALS IN OVER TEN DIFFERENT STATES ...",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Firm serves clients throughout the United States. We have completed jury trials representing corporations and individuals for personal injury, malpractice, and commercial disputes in Cleveland, Boston, Knoxville, Nashville, Petoskey, El Paso, Savannah, and San Francisco, to name just a few. As a result of the Firm's coast-to-coast experience, our attorneys can assist clients to achieve a result in any location in the United States.",
+                  "spans": []
+                },
+                {
+                  "type": "heading3",
+                  "text": "WITH EXPERIENCE NEGOTIATING SUCCESSFUL SETTLEMENTS ...",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "While specializing in trial practice, the Firm recognizes that the best result for a client is often achieved by avoiding unnecessary litigation, reaching a settlement that fairly compensates the parties while saving time and expense. The Firm has experience negotiating favorable settlements in a wide variety of cases, from insurance claims and personal injury to landlord-tenant disputes, employment claims, and medical malpractice. ",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$cddcf60c-f20d-418c-bff8-9a9314f5ddd1",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XFNXiBMAACIAOeVF",
+      "uid": "rebecca-cimino",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XFNXiBMAACIAOeVF%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-31T20:16:11+0000",
+      "last_publication_date": "2024-04-17T20:29:09+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Rebecca Cimino",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Paralegal Rebecca Cimino",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "PARALEGAL",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/7ef37924a9e4d8b61861744414665f0efb6cb9b7_coffee.png?auto=compress,format",
+                "id": "XDfF7RAAACEA4qOJ",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$c8dda4e9-c7d6-4065-80c9-041850bed0b3",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Rebecca Cimino",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "image",
+                  "url": "https://images.prismic.io/salbertlaw/f5dc831baed501c12c3b14cabe8cd7abeb36d56e_rebecca.jpg?auto=compress,format",
+                  "alt": null,
+                  "copyright": null,
+                  "dimensions": {
+                    "width": 2379,
+                    "height": 1588
+                  },
+                  "id": "XFhuchMAACQAUET3",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "text": "",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "After receiving her Bachelor of Arts degree from Ohio University, Rebecca obtained her Certificate in Paralegal Studies from Lakeland Community College.  Rebecca has 11 years of experience as a paralegal focusing primarily on complex personal injury, products liability, employment law, and insurance defense litigation.  ",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "She began her career as a paralegal working for a large, long-established law firm with attorney Steve Albert in Cleveland, Ohio. She then joined The Albert Law Firm upon its opening in 2012.  Rebecca supports and assists the Firm's attorneys in all phases of lawsuits, from filing new cases to attending jury trials, as well as in mediation and arbitration. ",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "When not dedicating her professional time to client needs, Rebecca enjoys spending time with her family and engaging in activities in her community.",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$1ce3380d-f7cc-43a4-91d6-c40ed0533b8a",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XFn_dxMAACMAVzH5",
+      "uid": "real-estate-litigation",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XFn_dxMAACMAVzH5%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-02-05T21:26:52+0000",
+      "last_publication_date": "2024-04-17T20:30:39+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Real Estate Law",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Real Estate Law",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "AREAS OF EXPERTISE",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+                "id": "XDZ2exAAACAAViYO",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "Real Estate Litigation",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Our attorneys can apply their talents and expertise to serve both landlords and tenants in lease disputes and other real estate matters, seeking to achieve the best possible resolution while avoiding unnecessary expense for the client. Since the addition of Andrew Peterson and Nick Holland, the Firm has continued to expand its representation of clients and negotiate successful resolutions to real estate disputes.",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUvwxAAACIAUIcc",
+      "uid": "steven-w-albert",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUvwxAAACIAUIcc%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:20:40+0000",
+      "last_publication_date": "2024-04-17T21:10:30+0000",
+      "slugs": [],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Steven W. Albert",
+            "spans": []
+          }
+        ],
+        "icon_description": [
+          {
+            "type": "heading1",
+            "text": "Attorney Steven Albert",
+            "spans": [],
+            "direction": "ltr"
+          }
+        ],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "ATTORNEY",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/7ef37924a9e4d8b61861744414665f0efb6cb9b7_coffee.png?auto=compress,format",
+                "id": "XDfF7RAAACEA4qOJ",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$d3cd14fc-0484-406e-aac2-793707110110",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Steven W. Albert",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "image",
+                  "url": "https://images.prismic.io/salbertlaw/bcbe8be6a7da1ad9fec9899fb2fe5ee062124d5e_albert.jpg?auto=compress,format",
+                  "alt": null,
+                  "copyright": null,
+                  "dimensions": {
+                    "width": 2379,
+                    "height": 1588
+                  },
+                  "id": "XFhtphMAACUAUEFT",
+                  "edit": {
+                    "x": 0,
+                    "y": 0,
+                    "zoom": 1,
+                    "background": "#fff"
+                  }
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Attorney Steven Albert has achieved an “AV” rating from his peers. Other attorneys who have worked with and represented clients against him have rated his legal expertise and professional character at the highest level.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "After Steve's discharge from the United States Army where he served honorably in the Airborne Infantry, he moved to Cleveland, Ohio and established a litigation practice specializing in complex civil litigation. Over the next several years, he developed his skills as a trial lawyer, arbitrator, and participant in mediation. Steve’s representation of clients has taken him to many states in addition to Ohio, where he has represented clients in jury trials, arbitrations, and mediations.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steve's practice has involved representing individuals, Fortune 250 corporations, hospital systems, and insurance carriers in complex disputes. He has tried over 140 cases to juries on his clients' behalf, in addition to his many arbitration, appellate, and mediation appearances. He has appeared in the Supreme Courts of Ohio and Georgia, as well as Federal District Courts and Appellate Courts from the east coast to the west coast.",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "After many years of practicing in a large firm, Steve opened his own practice, The Albert Law Firm, in 2012. This venture is dedicated to representing clients with major problems in need of solutions. Steve and the Firm look forward to many years of representing clients in their search for solutions to any dilemma that brings them into our office.",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [],
+                "blog_date": null,
+                "blog_content": []
+              }
+            ],
+            "id": "left_content$f17331be-7898-4f67-bd68-e41881f66a7f",
+            "slice_type": "left_content",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "contact_us_card_title": [
+                {
+                  "type": "paragraph",
+                  "text": "Contact Steve",
+                  "spans": []
+                }
+              ],
+              "contact_us_card_text": [
+                {
+                  "type": "paragraph",
+                  "text": "E: salbert@salbertlaw.com",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 25,
+                      "type": "strong"
+                    },
+                    {
+                      "start": 3,
+                      "end": 25,
+                      "type": "hyperlink",
+                      "data": {
+                        "link_type": "Web",
+                        "url": "mailto:salbert@salbertlaw.com",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T: 216.360.0807",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 15,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "success_stories_card_title": [
+                {
+                  "type": "paragraph",
+                  "text": "Bar Admissions: ",
+                  "spans": [
+                    {
+                      "start": 0,
+                      "end": 14,
+                      "type": "strong"
+                    }
+                  ]
+                }
+              ],
+              "success_stories_card_text": [
+                {
+                  "type": "paragraph",
+                  "text": "Supreme Court of the United States",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Supreme Court of Ohio",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Northern District of Ohio",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Southern District of Ohio",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6th Circuit Court of Appeals",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Eastern District of Michigan",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Western District of Virginia",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Eastern District of Wisconsin",
+                  "spans": [],
+                  "direction": "ltr"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Eastern District of Tennessee",
+                  "spans": [],
+                  "direction": "ltr"
+                }
+              ]
+            },
+            "items": [
+              {}
+            ],
+            "id": "right_content$883761c3-2d50-4245-8ea5-74d106bdd513",
+            "slice_type": "right_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDUyfxAAACAAUJMw",
+      "uid": "updated-legal-issues",
+      "url": null,
+      "type": "page",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUyfxAAACAAUJMw%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-08T23:30:10+0000",
+      "last_publication_date": "2019-10-09T19:12:29+0000",
+      "slugs": [
+        "updated-legal-issues"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "Updated Legal Issues",
+            "spans": []
+          }
+        ],
+        "icon_description": [],
+        "body": [
+          {
+            "primary": {
+              "white_text": [
+                {
+                  "type": "heading1",
+                  "text": "LEGAL ISSUES",
+                  "spans": []
+                }
+              ],
+              "banner_image": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 275
+                },
+                "alt": null,
+                "copyright": null,
+                "url": "https://images.prismic.io/salbertlaw/9081f467d467455cd04e5990f37f679fef5720bf_book.png?auto=compress,format",
+                "id": "XDU_RBAAACAAUMtl",
+                "edit": {
+                  "x": -3,
+                  "y": 0,
+                  "zoom": 0.9927797833935018,
+                  "background": "transparent"
+                }
+              }
+            },
+            "items": [
+              {}
+            ],
+            "id": "header$67627e98-7e50-40ac-aeaa-00fe15c578bd",
+            "slice_type": "header",
+            "slice_label": null
+          },
+          {
+            "primary": {
+              "red_text": [
+                {
+                  "type": "heading1",
+                  "text": "",
+                  "spans": []
+                }
+              ],
+              "main_text": [
+                {
+                  "type": "paragraph",
+                  "text": "This page is dedicated to communicating the most up-to-date legal information. Check back regularly for updated content. ",
+                  "spans": []
+                }
+              ]
+            },
+            "items": [
+              {
+                "blog_post_title": [
+                  {
+                    "type": "heading1",
+                    "text": "Investment News: Qualified Opportunity Zones",
+                    "spans": []
+                  }
+                ],
+                "blog_date": "2019-02-28",
+                "blog_content": [
+                  {
+                    "type": "paragraph",
+                    "text": "This post addresses the following three questions:",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "1)      What are qualified opportunity zones?",
+                    "spans": [
+                      {
+                        "start": 17,
+                        "end": 44,
+                        "type": "em"
+                      },
+                      {
+                        "start": 17,
+                        "end": 44,
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "2)     How does one invest in a qualified opportunity zone property?",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "3)     What are the benefits of investing in a qualified opportunity zone property?",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "This post does not address whether opportunity zones represent a worthwhile investment compared to available alternatives. Nor does it address whether any particular investment opportunity satisfies the law’s requirements. Over the next few months, the IRS “will be providing further details, including additional legal guidance, on this new tax benefit,” which may answer other miscellaneous questions. See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019). The Albert Law Firm is always available for consultation, although some questions may be best answered by a tax lawyer or accountant. ",
+                    "spans": [
+                      {
+                        "start": 15,
+                        "end": 18,
+                        "type": "em"
+                      },
+                      {
+                        "start": 404,
+                        "end": 407,
+                        "type": "em"
+                      },
+                      {
+                        "start": 408,
+                        "end": 481,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading1",
+                    "text": "I. Summary",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "An investor takes advantage of qualified opportunity zones by reinvesting a capital gain into a qualified opportunity fund within 180 days or receiving the gain. A qualified opportunity fund is a partnership or corporation whose primary purpose is to invest in a qualified opportunity zone property. A qualified opportunity zone property is a stock, partnership interest, or business property located within a qualified opportunity zone. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "By reinvesting a capital gain into a qualified opportunity zone property through a qualified opportunity fund, the investor may defer paying capital gains tax on the gain. (The investor must still list the initial gain on IRS Form 8949 in the tax year the investor obtains it.) The investor pays capital gains tax in the tax year associated with the earlier of: (1) the date the investor sells or exchanges the qualified opportunity zone property, or (2) December 31, 2026. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If the investor maintains the investment for at least five but fewer than seven years before selling or exchanging it, the amount of taxable gain is reduced by 10%. If the investor maintains the investment for seven years or longer, then the amount of taxable gain is reduced by an additional 5%. If the investor holds the qualified opportunity zone property for ten years or more, then the investor likely does not have to pay capital gain tax on any gain associated with its sale. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "heading1",
+                    "text": "II. What are qualified opportunity zones?",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Qualified opportunity zones were added to the tax code on December 22, 2017, when the Tax Cuts and Jobs Act (the “TCJA”) was signed into law. See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019). A qualified opportunity zone is a census tract which underwent a process of nomination and designation following the TCJA’s passage. See generally 26 U.S.C. 1400Z–1. All qualified opportunity zones are either low-income communities (as defined by the Internal Revenue Code) or areas adjacent to low-income communities. 26 U.S.C. 45D(e).",
+                    "spans": [
+                      {
+                        "start": 142,
+                        "end": 145,
+                        "type": "em"
+                      },
+                      {
+                        "start": 146,
+                        "end": 219,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                        }
+                      },
+                      {
+                        "start": 383,
+                        "end": 397,
+                        "type": "em"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "A “qualified opportunity zone property” is property within a qualified opportunity zone that an investor can invest in to reap tax benefits. An investor who reinvests a capital gain in a qualified opportunity zone property can defer paying capital gains tax on that gain. If the investor holds the investment for at least five years, then the investor does not need to pay capital gains tax on the full amount of the gain. Other benefits trigger at seven and ten years. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "As of today, more than 8,700 communities containing approximately 35 million Americans have been designated as qualified opportunity zones. See https://www.housingwire.com/articles/47185-trump-administration-unveils-new-rules-for-opportunity-zones (last visited Feb. 27, 2019). A list of these zones can be found at Opportunity Zone Resources and in the Federal Register at IRB Notice 2018-48. Because each U.S. state (and each U.S. possession) has nominated the maximum number of qualified opportunity zones, the list of designations as of December 14, 2018 is final; there will be no “additional or revised designations.” See https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx (last visited Feb. 27, 2019).",
+                    "spans": [
+                      {
+                        "start": 140,
+                        "end": 143,
+                        "type": "em"
+                      },
+                      {
+                        "start": 144,
+                        "end": 247,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.housingwire.com/articles/47185-trump-administration-unveils-new-rules-for-opportunity-zones"
+                        }
+                      },
+                      {
+                        "start": 316,
+                        "end": 342,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx"
+                        }
+                      },
+                      {
+                        "start": 354,
+                        "end": 392,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/pub/irs-drop/n-18-48.pdf"
+                        }
+                      },
+                      {
+                        "start": 624,
+                        "end": 627,
+                        "type": "em"
+                      },
+                      {
+                        "start": 628,
+                        "end": 681,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.cdfifund.gov/Pages/Opportunity-Zones.aspx"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading1",
+                    "text": "III. How does one invest in a qualified opportunity zone property? ",
+                    "spans": []
+                  },
+                  {
+                    "type": "heading2",
+                    "text": "  A.  The investor creates a qualified opportunity fund.",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The process of investing in a qualified opportunity zone property begins when an investor reinvests a capital gain into a “qualified opportunity fund” within 180 days of acquiring that gain. 26 U.S.C. 1400Z–2(a)(1)(A). A qualified opportunity fund is an “investment vehicle which is organized as a corporation or a partnership for the purpose of investing in a qualified opportunity zone property.” 26 U.S.C. 1400Z–2(d)(1). The investor must fill out IRS Form 8996 each year in connection with establishing and maintaining a qualified opportunity fund. The investor must also list the sale resulting in the initial capital gain on IRS Form 8949, although “instructions on how to use that form to elect deferral of the gain will be forthcoming.” See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019).",
+                    "spans": [
+                      {
+                        "start": 451,
+                        "end": 464,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf"
+                        }
+                      },
+                      {
+                        "start": 631,
+                        "end": 644,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/pub/irs-pdf/f8949.pdf"
+                        }
+                      },
+                      {
+                        "start": 745,
+                        "end": 748,
+                        "type": "em"
+                      },
+                      {
+                        "start": 749,
+                        "end": 822,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "A qualified opportunity fund’s founding documents must “include a statement of the entity’s purpose of investing in qualified opportunity zone property and the description of the qualified opportunity zone business.” See https://www.irs.gov/pub/irs-pdf/f8996.pdf (last visited Feb. 27, 2019). The entity must continuously hold at least 90% of its assets in a qualified opportunity zone property and its interest must be in equity, not in debt. See https://www.irs.gov/newsroom/tax-law-creates-new-opportunity-zone-program (last visited Feb. 27, 2019). If a qualified opportunity fund fails to maintain at least 90% of its assets in qualified opportunity zone property, then it is subject to a tax penalty. See https://www.irs.gov/pub/irs-pdf/f8996.pdf (last visited Feb. 27, 2019).",
+                    "spans": [
+                      {
+                        "start": 217,
+                        "end": 221,
+                        "type": "em"
+                      },
+                      {
+                        "start": 221,
+                        "end": 262,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf"
+                        }
+                      },
+                      {
+                        "start": 444,
+                        "end": 448,
+                        "type": "em"
+                      },
+                      {
+                        "start": 448,
+                        "end": 521,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/newsroom/tax-law-creates-new-opportunity-zone-program"
+                        }
+                      },
+                      {
+                        "start": 706,
+                        "end": 710,
+                        "type": "em"
+                      },
+                      {
+                        "start": 710,
+                        "end": 751,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/pub/irs-pdf/f8996.pdf"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The IRS has noted that an investor may defer taxes on a capital gain—even if the gain preceded the TCJA—as long as the investor invested the amount of the gain within 180 days into a qualified opportunity fund.  See https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions (last visited Feb. 27, 2019). The investor can defer taxes on that gain by filing an amended return if the tax return for that year has already been filed. Id. It is currently unclear how this policy works in light of the requirement that a qualified opportunity fund’s founding documents must designate the entity’s purpose as a qualified opportunity fund. In other words, it is not certain whether an entity that meets the purpose but not the formal requirements of a qualified opportunity fund can benefit from this retroactivity. ",
+                    "spans": [
+                      {
+                        "start": 212,
+                        "end": 216,
+                        "type": "em"
+                      },
+                      {
+                        "start": 216,
+                        "end": 289,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                        }
+                      },
+                      {
+                        "start": 446,
+                        "end": 448,
+                        "type": "em"
+                      },
+                      {
+                        "start": 446,
+                        "end": 448,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions"
+                        }
+                      },
+                      {
+                        "start": 715,
+                        "end": 723,
+                        "type": "em"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading2",
+                    "text": "  B.  The investor uses the qualified opportunity fund to invest in a qualified opportunity zone property. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Once a qualified opportunity fund is established, its purpose is to invest in a qualified opportunity zone property. “Qualified opportunity zone property” is defined broadly: it includes “qualified opportunity zone stock,” “qualified opportunity zone partnership interest,” and “qualified opportunity zone business property.” 26 U.S.C. 1400Z–2(d)(2)(B)–(D). In other words, an interest in stock, a partnership, or business property may qualify as a qualified opportunity zone property under the Internal Revenue Code.",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "The Code imposes many specific requirements with respect to each kind of property. Therefore, we recommend consulting with a tax lawyer or accountant to determine whether a particular stock, partnership interest, or business property is a qualified opportunity zone property.",
+                    "spans": []
+                  },
+                  {
+                    "type": "heading1",
+                    "text": "IV. What are the benefits of investing in a qualified opportunity zone property?",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Reinvesting a capital gain into a qualified opportunity zone property provides tax benefits for the investor. By reinvesting all or some of a capital gain into a qualified opportunity fund within 180 days of receiving the gain, an investor may defer paying capital gains tax on the amount of the gain reinvested. 26 U.S.C. 1400Z–2(a)(1)(A). If the investor chooses to defer, then the investor pays capital gains tax on the initial gain in the tax year associated with the earlier of either “the date on which such investment is sold or exchanged,” or December 31, 2026. See 26 U.S.C. 1400Z–2(b).",
+                    "spans": [
+                      {
+                        "start": 483,
+                        "end": 489,
+                        "type": "em"
+                      },
+                      {
+                        "start": 548,
+                        "end": 550,
+                        "type": "em"
+                      },
+                      {
+                        "start": 570,
+                        "end": 573,
+                        "type": "em"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "By retaining the investment in a qualified opportunity zone property for five years or longer, the investor does not need to pay capital gains tax on the full amount of the original gain. See generally 26 U.S.C. 1400Z–2(b)(2)(B). After five years, the amount taxable is decreased by 10% of the original gain amount. 26 U.S.C. 1400Z–2(b)(2)(B)(iii). After seven years, the amount taxable is decreased by an additional 5% of the original gain amount. 26 U.S.C. 1400Z–2(b)(2)(B)(iv). In order to take advantage of the full 15% decrease, the investor must invest by December 31, 2019 because the gain must be recognized no later than December 31, 2026 (tax year 2027). 26 U.S.C. 1400Z–2(b).",
+                    "spans": [
+                      {
+                        "start": 188,
+                        "end": 202,
+                        "type": "em"
+                      },
+                      {
+                        "start": 211,
+                        "end": 212,
+                        "type": "em"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "     Example: In 2019, an investor sells stocks, resulting in a $1 million capital gain. Within 180 days, the investor creates a qualified opportunity fund, places that $1 million gain in the fund, and uses the entire amount to invest in a qualified opportunity zone property. The investor lists the $1 million gain on IRS Form 8949, but does not need to pay taxes on that amount in 2020. The investor also files IRS Form 8996 (in connection with the qualified opportunity fund) for that year and each subsequent year. In 2026, the investor has held the qualified opportunity zone property for seven years, and sells it for $1 million (resulting in no additional capital gain or loss). In 2027, the investor pays capital gains tax on $850,000 of the original gain because of the 15% decrease. ",
+                    "spans": [
+                      {
+                        "start": 0,
+                        "end": 793,
+                        "type": "em"
+                      },
+                      {
+                        "start": 0,
+                        "end": 14,
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "If the investor suffers a loss after selling or exchanging the qualified opportunity zone property, then the investor receives another benefit. If the value of the sale of the qualified opportunity zone property is less than the amount of the deferred gain, then any savings is subtracted from the amount of the sale instead of the deferred gain amount. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "     Example: In 2019, an investor sells stocks, resulting in a $1 million capital gain. Within 180 days, the investor creates a qualified opportunity fund, places that $1 million gain in the fund, and uses the entire amount to invest in a qualified opportunity zone property. The investor lists the $1 million gain on IRS Form 8949, but does not need to pay taxes on that amount in 2020. The investor also files IRS Form 8996 (in connection with the qualified opportunity fund) for that year and each subsequent year. In 2026, the investor has held the qualified opportunity zone property for seven years, and sells it for $800,000. In 2027, the investor pays capital gains taxes on $650,000 of the original gain. This amount is derived from the sale amount ($800,000) minus the savings equal to 15% of the deferred gain ($150,000).",
+                    "spans": [
+                      {
+                        "start": 0,
+                        "end": 833,
+                        "type": "em"
+                      },
+                      {
+                        "start": 0,
+                        "end": 14,
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "An investor who holds an investment in a qualified opportunity zone property for at least ten years receives an additional benefit. Once the investor sells or exchanges the qualified opportunity zone property, the basis of the qualified opportunity zone property becomes equal to “the fair market value of such investment on the date that the investment is sold or exchanged.” 26 U.S.C. 1400Z–2(c). Because “an arm’s-length sale of property near the valuation date is the best indicium of its fair market value on the valuation date” (Estate of Noble v. Comm'r, T.C.M. (RIA) 2005-002 (T.C. 2005)), this provision has the effect of minimizing—if not eliminating—capital gains tax paid on the sale of the qualified opportunity zone property (separate from the recognition of the deferred gain). See https://www.wellsfargo.com/the-private-bank/insights/planning/wpu-qualified-opportunity-zones/ (last visited Feb. 27, 2019) (characterizing this benefit as “[n]o tax on appreciation” and providing examples of these benefits).",
+                    "spans": [
+                      {
+                        "start": 535,
+                        "end": 560,
+                        "type": "em"
+                      },
+                      {
+                        "start": 793,
+                        "end": 797,
+                        "type": "em"
+                      },
+                      {
+                        "start": 797,
+                        "end": 891,
+                        "type": "hyperlink",
+                        "data": {
+                          "link_type": "Web",
+                          "url": "https://www.wellsfargo.com/the-private-bank/insights/planning/wpu-qualified-opportunity-zones/"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "     Example: In 2019, an investor sells stocks, resulting in a $1 million capital gain. Within 180 days, the investor creates a qualified opportunity fund, places that $1 million gain in the fund, and uses the entire amount to invest in a qualified opportunity zone property. The investor lists the $1 million gain on IRS Form 8949, but does not need to pay taxes on that amount in 2020. The investor also files IRS Form 8996 (in connection with the qualified opportunity fund) for that year and each subsequent year. In 2026, the investor has held the qualified opportunity zone property for seven years, but does not sell it. In 2027, the investor pays capital gains tax on $850,000 of the original gain because of the 15% decrease. In 2029, after having owned the qualified opportunity zone property for ten years, the investor sells it for $2 million, representing an appreciation of $1 million. Because the investor has held the property for ten years, the investor does not need to pay any capital gains tax on the additional $1 million, assuming the property’s sale was carried out as an arm’s-length transaction. ",
+                    "spans": [
+                      {
+                        "start": 0,
+                        "end": 1122,
+                        "type": "em"
+                      },
+                      {
+                        "start": 0,
+                        "end": 14,
+                        "type": "strong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "heading1",
+                    "text": "V. Conclusion",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "To benefit from qualified opportunity zones, an investor must reinvest a capital gain into a qualified opportunity fund within 180 days of receiving the gain. The investor then uses that entity to invest in a qualified opportunity zone property, which may be a stock, partnership interest, or business property. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "By doing so, the investor may defer paying capital gains tax on the gain until the tax year associated with the earlier of: (1) the date the investor sells or exchanges the qualified opportunity zone property, or (2) December 31, 2026. If the investor maintains the investment for at least five but fewer than seven years before selling or exchanging it, then the amount of taxable gain is reduced by 10%. If the investor maintains the investment for seven years or longer, then the amount of taxable gain is reduced by an additional 5%. If the investor holds the qualified opportunity zone property for ten years or more, then any capital gain associated with its sale is likely not taxable. ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": " ",
+                    "spans": []
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "            ",
+                    "spans": []
+                  }
+                ]
+              }
+            ],
+            "id": "left_content$c4cf979a-4c91-4e4c-bfa0-7844a6349ecf",
+            "slice_type": "left_content",
+            "slice_label": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "XDeBHhAAACAA4XOP",
+      "uid": "contact-info",
+      "url": null,
+      "type": "contact_info",
+      "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDeBHhAAACAA4XOP%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2019-01-10T17:30:12+0000",
+      "last_publication_date": "2019-02-04T21:39:42+0000",
+      "slugs": [
+        "general-contact-information",
+        "general-contact-info",
+        "29425-chagrin-blvd"
+      ],
+      "linked_documents": [],
+      "lang": "en-us",
+      "alternate_languages": [],
+      "data": {
+        "page_title": [
+          {
+            "type": "heading1",
+            "text": "General Contact Information",
+            "spans": []
+          }
+        ],
+        "address_line_1": [
+          {
+            "type": "paragraph",
+            "text": "29425 Chagrin Blvd",
+            "spans": []
+          }
+        ],
+        "address_line_2": [
+          {
+            "type": "paragraph",
+            "text": "Suite 216",
+            "spans": []
+          }
+        ],
+        "address_line_3": [
+          {
+            "type": "paragraph",
+            "text": "Pepper Pike, OH 44122",
+            "spans": []
+          }
+        ],
+        "phone": [
+          {
+            "type": "paragraph",
+            "text": "216.360.0800",
+            "spans": []
+          }
+        ],
+        "email": [
+          {
+            "type": "paragraph",
+            "text": "salbert@salbertlaw.com",
+            "spans": [
+              {
+                "start": 0,
+                "end": 22,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "mailto:salbert@salbertlaw.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
