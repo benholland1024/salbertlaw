@@ -1,0 +1,72 @@
+{
+  "id": "XDeBHhAAACAA4XOP",
+  "uid": "contact-info",
+  "url": null,
+  "type": "contact_info",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDeBHhAAACAA4XOP%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-01-10T17:30:12+0000",
+  "last_publication_date": "2019-02-04T21:39:42+0000",
+  "slugs": [
+    "general-contact-information",
+    "general-contact-info",
+    "29425-chagrin-blvd"
+  ],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "General Contact Information",
+        "spans": []
+      }
+    ],
+    "address_line_1": [
+      {
+        "type": "paragraph",
+        "text": "29425 Chagrin Blvd",
+        "spans": []
+      }
+    ],
+    "address_line_2": [
+      {
+        "type": "paragraph",
+        "text": "Suite 216",
+        "spans": []
+      }
+    ],
+    "address_line_3": [
+      {
+        "type": "paragraph",
+        "text": "Pepper Pike, OH 44122",
+        "spans": []
+      }
+    ],
+    "phone": [
+      {
+        "type": "paragraph",
+        "text": "216.360.0800",
+        "spans": []
+      }
+    ],
+    "email": [
+      {
+        "type": "paragraph",
+        "text": "salbert@salbertlaw.com",
+        "spans": [
+          {
+            "start": 0,
+            "end": 22,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "mailto:salbert@salbertlaw.com"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

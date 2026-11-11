@@ -1,0 +1,124 @@
+{
+  "id": "XDOsOBAAACIASfdp",
+  "uid": "firm-overview",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDOsOBAAACIASfdp%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-01-07T19:45:01+0000",
+  "last_publication_date": "2024-04-17T20:30:13+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Firm Overview",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Contracts and Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "FIRM OVERVIEW",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/363b012115e22da682022989f1c2a2f0b7cfd268_gavel.png?auto=compress,format",
+            "id": "XDUmyBAAACEAUF8v",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$fb499a4d-6cad-401d-9069-a8d0f629899d",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "paragraph",
+              "text": "After practicing law for 40 years as a partner with national law firms, Steve Albert chose to open a law firm dedicated to delivering legal solutions for long-standing clients and new clients who have serious legal needs. The Albert Law Firm was thus established on December 1, 2012. Since that time, the Firm has grown to serve its clients even more efficiently.",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "The Firm is staffed to handle business/commercial litigation, products liability litigation, real estate litigation, healthcare litigation, complex personal injury litigation, and employment litigation, and serves clients in the resolution of disputes by mediation, arbitration, or trial. Our attorneys are capable of advocating for clients in both state and federal appellate courts.",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "EXPERIENCE.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "As a nationally-recognized civil litigator, Steve has completed jury trials throughout the United States. The Firm's focus has been to achieve success through negotiation where possible, and through arbitration or trial where necessary.",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "DEDICATION.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "The Firm believes in dedication to client service above all else. The formation of this Firm has provided our attorneys with the opportunity to solve problems for clients cost-effectively through mediation, arbitration, or jury trial. The Firm focuses on the highest level of preparation and early assessment which will lead to a favorable resolution of disputes for its clients.",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "SUCCESS.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Our office is equipped with the latest technology and research tools to enable the Firm to compete successfully against the largest law firms in the most complex litigation. Because of this technology and the in-depth experience of the Firm's attorneys in litigation services, the combination of which affords the highest level of service and expertise, every client who brings a matter to the Firm can be confident that their case will receive the personal attention of the dedicated members of the Firm in achieving a successful resolution.",
+              "spans": []
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$1d723100-1c4e-4e5c-882a-71fcf3b42e6e",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

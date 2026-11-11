@@ -1,0 +1,250 @@
+{
+  "id": "XDUvwxAAACIAUIcc",
+  "uid": "steven-w-albert",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XDUvwxAAACIAUIcc%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-01-08T23:20:40+0000",
+  "last_publication_date": "2024-04-17T21:10:30+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Steven W. Albert",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Attorney Steven Albert",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "ATTORNEY",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/7ef37924a9e4d8b61861744414665f0efb6cb9b7_coffee.png?auto=compress,format",
+            "id": "XDfF7RAAACEA4qOJ",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$d3cd14fc-0484-406e-aac2-793707110110",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "paragraph",
+              "text": "Steven W. Albert",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "image",
+              "url": "https://images.prismic.io/salbertlaw/bcbe8be6a7da1ad9fec9899fb2fe5ee062124d5e_albert.jpg?auto=compress,format",
+              "alt": null,
+              "copyright": null,
+              "dimensions": {
+                "width": 2379,
+                "height": 1588
+              },
+              "id": "XFhtphMAACUAUEFT",
+              "edit": {
+                "x": 0,
+                "y": 0,
+                "zoom": 1,
+                "background": "#fff"
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "Attorney Steven Albert has achieved an “AV” rating from his peers. Other attorneys who have worked with and represented clients against him have rated his legal expertise and professional character at the highest level.",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "After Steve's discharge from the United States Army where he served honorably in the Airborne Infantry, he moved to Cleveland, Ohio and established a litigation practice specializing in complex civil litigation. Over the next several years, he developed his skills as a trial lawyer, arbitrator, and participant in mediation. Steve’s representation of clients has taken him to many states in addition to Ohio, where he has represented clients in jury trials, arbitrations, and mediations.",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Steve's practice has involved representing individuals, Fortune 250 corporations, hospital systems, and insurance carriers in complex disputes. He has tried over 140 cases to juries on his clients' behalf, in addition to his many arbitration, appellate, and mediation appearances. He has appeared in the Supreme Courts of Ohio and Georgia, as well as Federal District Courts and Appellate Courts from the east coast to the west coast.",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "After many years of practicing in a large firm, Steve opened his own practice, The Albert Law Firm, in 2012. This venture is dedicated to representing clients with major problems in need of solutions. Steve and the Firm look forward to many years of representing clients in their search for solutions to any dilemma that brings them into our office.",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$f17331be-7898-4f67-bd68-e41881f66a7f",
+        "slice_type": "left_content",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "contact_us_card_title": [
+            {
+              "type": "paragraph",
+              "text": "Contact Steve",
+              "spans": []
+            }
+          ],
+          "contact_us_card_text": [
+            {
+              "type": "paragraph",
+              "text": "E: salbert@salbertlaw.com",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 25,
+                  "type": "strong"
+                },
+                {
+                  "start": 3,
+                  "end": 25,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "mailto:salbert@salbertlaw.com",
+                    "target": "_blank"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "T: 216.360.0807",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 15,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "success_stories_card_title": [
+            {
+              "type": "paragraph",
+              "text": "Bar Admissions: ",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 14,
+                  "type": "strong"
+                }
+              ]
+            }
+          ],
+          "success_stories_card_text": [
+            {
+              "type": "paragraph",
+              "text": "Supreme Court of the United States",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Supreme Court of Ohio",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Northern District of Ohio",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Southern District of Ohio",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "6th Circuit Court of Appeals",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Eastern District of Michigan",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Western District of Virginia",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Eastern District of Wisconsin",
+              "spans": [],
+              "direction": "ltr"
+            },
+            {
+              "type": "paragraph",
+              "text": "Eastern District of Tennessee",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {}
+        ],
+        "id": "right_content$883761c3-2d50-4245-8ea5-74d106bdd513",
+        "slice_type": "right_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "XFn_whMAACQAVzNI",
+  "uid": "healthcare-litigation",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XFn_whMAACQAVzNI%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-02-05T21:27:58+0000",
+  "last_publication_date": "2024-04-17T21:20:40+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Health Care Litigation",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Healthcare and Medical Malpractice Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$c07569d9-ed6a-4f0b-97c2-2515a622b8db",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Health Care Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "Our attorneys have experience with a wide range of legal issues facing the world of health care. The Firm is equipped to take on the most complex health care litigation, from representing medical contractors and hospitals in negligence actions to pursuing medical malpractice and wrongful death claims on behalf of plaintiffs. ",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$958ed5f1-29fb-4bf3-b69f-d9adeff33982",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}

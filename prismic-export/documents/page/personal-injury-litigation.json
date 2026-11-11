@@ -1,0 +1,95 @@
+{
+  "id": "XFPMvhMAACMAO-pT",
+  "uid": "personal-injury-litigation",
+  "url": null,
+  "type": "page",
+  "href": "https://salbertlaw.cdn.prismic.io/api/v2/documents/search?ref=Z-QglBIAACIAdnH7&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XFPMvhMAACMAO-pT%22%29+%5D%5D",
+  "tags": [],
+  "first_publication_date": "2019-02-01T04:43:56+0000",
+  "last_publication_date": "2024-04-17T21:22:59+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "page_title": [
+      {
+        "type": "heading1",
+        "text": "Complex Personal Injury",
+        "spans": []
+      }
+    ],
+    "icon_description": [
+      {
+        "type": "heading1",
+        "text": "Complex Personal Injury, Tort, and Wrongful Death Litigation",
+        "spans": [],
+        "direction": "ltr"
+      }
+    ],
+    "body": [
+      {
+        "primary": {
+          "white_text": [
+            {
+              "type": "heading1",
+              "text": "AREAS OF EXPERTISE",
+              "spans": []
+            }
+          ],
+          "banner_image": {
+            "dimensions": {
+              "width": 900,
+              "height": 275
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/salbertlaw/fb3fb07e5d29de057d4f2d4701e53fedd50e3108_contract.png?auto=compress,format",
+            "id": "XDZ2exAAACAAViYO",
+            "edit": {
+              "x": -3,
+              "y": 0,
+              "zoom": 0.9927797833935018,
+              "background": "transparent"
+            }
+          }
+        },
+        "items": [
+          {}
+        ],
+        "id": "header$59da34a7-4fbb-41b1-968e-13c2810c7a42",
+        "slice_type": "header",
+        "slice_label": null
+      },
+      {
+        "primary": {
+          "red_text": [
+            {
+              "type": "heading1",
+              "text": "Personal Injury Litigation",
+              "spans": []
+            }
+          ],
+          "main_text": [
+            {
+              "type": "paragraph",
+              "text": "The Firm has obtained favorable results for many clients who were the victims of wrongful injuries or death, including automobile accidents and the exacerbation of complex preexisting medical conditions. Through careful investigation, research, and effective communication, the Firm offers the highest level of legal services to clients seeking compensation for personal injury and wrongful death claims.",
+              "spans": [],
+              "direction": "ltr"
+            }
+          ]
+        },
+        "items": [
+          {
+            "blog_post_title": [],
+            "blog_date": null,
+            "blog_content": []
+          }
+        ],
+        "id": "left_content$5bc27cd9-93fe-43e8-98d7-da55b8fba2d9",
+        "slice_type": "left_content",
+        "slice_label": null
+      }
+    ]
+  }
+}
